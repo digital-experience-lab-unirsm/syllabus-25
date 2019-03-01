@@ -19,6 +19,16 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - _Vectorial Elevation_, 1999, Rafael Lozano-Hemmer [+](http://www.lozano-hemmer.com/vectorial_elevation.php)
 - _Urban/Mexico City_, 2007, Spencer Tunick [+](https://vimeo.com/6988932)
 
+![Valence, 1999, Ben Fry](http://i.imgur.com/WMIEi1a.jpg?1) ![Genome Valence, 2002, Ben Fry](http://i.imgur.com/fF4a0Qs.jpg?1) ![Tron Legacy, 2010, JT Nimoy](http://i.imgur.com/dIy34wn.jpg?1)
+
+- _Valence_, 1999, Ben Fry [+](http://benfry.com/valence/)
+- _Genome Valence_, 2002, Ben Fry [+](http://benfry.com/genomevalence/)
+- _Tron Legacy_, 2010, JT Nimoy/Gmunk [+](http://jtnimoy.com/blogs/projects/14881671-tron-legacy) [+](http://www.inventinginteractive.com/2011/03/02/interview-gmunk/) [+](http://work.gmunk.com/filter/Select/TRON-Solar-Sailor)
+
+![Ma gli androidi sognano pecore elettriche?, 1968, Philip K. Dick](https://i.imgur.com/T5I4bKm.jpg?1) ![Do Androids Dream of Electric Sheep?, 1968, Philip K. Dick](https://i.imgur.com/q5K9FcL.jpg?1)
+
+- _Ma gli androidi sognano pecore elettriche?_ (_Do Androids Dream of Electric Sheep?_), 1958, Philip K. Dick [+](https://it.wikipedia.org/wiki/Il_cacciatore_di_androidi) [+](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F)
+
 ### Lab
 - _Close reading: what is | what does it mean | how it works | what if_
 - _The Cognitive Style of PowerPoint_, Edward Tufte [+](http://www.edwardtufte.com/tufte/books_pp) [+](http://users.ha.uth.gr/tgd/pt0501/09/Tufte.pdf)
