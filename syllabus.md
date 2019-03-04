@@ -60,7 +60,9 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - Processing [+](http://www.processing.org)
   - editor IDE | console | play
 - P5js [+](http://www.p5js.org)
-  - editor { Atom [+](https://atom.io/) } | ispeziona elemento | ricarica
+  - editor 
+    - Editor IDE per P5js [+](https://editor.p5js.org/)
+    - Atom [+](https://atom.io/) | ispeziona elemento | ricarica
 - Explorative programming
   - _sketches_, approccio espressivo
   - commenti, formattazione, estetica della scrittura
@@ -82,4 +84,4 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
   - _What Does “Open Source” Even Mean?_, Jen Kagan [+](https://medium.com/@kenjagan/what-does-open-source-even-mean-6bd47befe696)
   - _Processing and FLOSS_, Casey Reas [+](https://medium.com/processing-foundation/processing-and-floss-d35aa4607f4c)
 - Tutorial _Hello world_ Processing [+](http://hello.processing.org/) [+](https://vimeo.com/140600280)
-- Editor IDE per P5js (alpha) [+](https://editor.p5js.org/)
+- Gene Kogan P5js tutorials on Trasformations [+](http://genekogan.com/code/p5js-transformations/) and Perlin Noise [+](http://genekogan.com/code/p5js-perlin-noise/)
