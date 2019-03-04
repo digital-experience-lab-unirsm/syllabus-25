@@ -84,4 +84,5 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
   - _What Does “Open Source” Even Mean?_, Jen Kagan [+](https://medium.com/@kenjagan/what-does-open-source-even-mean-6bd47befe696)
   - _Processing and FLOSS_, Casey Reas [+](https://medium.com/processing-foundation/processing-and-floss-d35aa4607f4c)
 - Tutorial _Hello world_ Processing [+](http://hello.processing.org/) [+](https://vimeo.com/140600280)
+- Processing >< P5js [+](https://github.com/processing/p5.js/wiki/Transitioning-from-Processing) [+](https://www.youtube.com/watch?v=AmlAiKsiy0o) [+](https://www.youtube.com/watch?v=AsjPJ5AWkDc)
 - Gene Kogan P5js tutorials on Trasformations [+](http://genekogan.com/code/p5js-transformations/) and Perlin Noise [+](http://genekogan.com/code/p5js-perlin-noise/)
