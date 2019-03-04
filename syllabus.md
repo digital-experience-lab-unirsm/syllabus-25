@@ -62,7 +62,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - P5js [+](http://www.p5js.org)
   - editor 
     - Editor IDE per P5js [+](https://editor.p5js.org/)
-    - Atom [+](https://atom.io/) } | ispeziona elemento | ricarica
+    - Atom [+](https://atom.io/) | ispeziona elemento | ricarica
 - Explorative programming
   - _sketches_, approccio espressivo
   - commenti, formattazione, estetica della scrittura
