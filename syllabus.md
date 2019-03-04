@@ -83,3 +83,4 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
   - _Processing and FLOSS_, Casey Reas [+](https://medium.com/processing-foundation/processing-and-floss-d35aa4607f4c)
 - Tutorial _Hello world_ Processing [+](http://hello.processing.org/) [+](https://vimeo.com/140600280)
 - Editor IDE per P5js (alpha) [+](https://editor.p5js.org/)
+- Gene Kogan P5js tutorials on Trasformations [+](http://genekogan.com/code/p5js-transformations/) and Perlin Noise [+](http://genekogan.com/code/p5js-perlin-noise/
