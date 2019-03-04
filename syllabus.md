@@ -43,3 +43,43 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 ###### compito/progetto
 1. Git/Github hello
+
+
+
+## W2
+### La lingua. _A computational approach to sketching ideas._
+
+![The Source, 2004, Greyworld](http://i.imgur.com/1n622Q0.jpg?1) ![The Source, 2004, Greyworld](http://i.imgur.com/kPVYKuO.jpg?1) ![Museo della mente, 2008, Studio Azzurro](http://i.imgur.com/reqRHOs.jpg?1) ![Museo audiovisivo della Resistenza, 2000, Studio Azzurro](http://i.imgur.com/Jf75XmS.jpg?1)
+
+- _The Source_, 2004, Greyworld [+](https://en.wikipedia.org/wiki/Greyworld#The_Source_(2004)) [+](https://vimeo.com/10163398)
+- _Museo della mente_, 2008, Studio Azzurro [+](http://www.studioazzurro.com/index.php?com_works=&view=detail&work_id=42&option=com_works&Itemid=22&lang=it) [+](http://www.museodellamente.it/it/)
+- _Museo audiovisivo della Resistenza_, 2000, Studio Azzurro [+](http://www.studioazzurro.com/index.php?com_works=&view=detail&work_id=68&option=com_works&Itemid=22&lang=en) [+](https://vimeo.com/34843796)
+
+### Lab
+- _Close reading/what does it mean_: metodo e approccio
+- Processing [+](http://www.processing.org)
+  - editor IDE | console | play
+- P5js [+](http://www.p5js.org)
+  - editor { Atom [+](https://atom.io/) } | ispeziona elemento | ricarica
+- Explorative programming
+  - _sketches_, approccio espressivo
+  - commenti, formattazione, estetica della scrittura
+  - sintassi/_grammatica della lingua_
+  - _reference_/_dizionario della lingua_ [+](http://www.processing.org/reference) [+](https://p5js.org/reference/)
+  - librerie/_estendere la lingua_
+- Risorse utili
+  - Generative Gestaltung [+](http://www.generative-gestaltung.de/)
+  - Daniel Shiffman / _The Coding Train_ [+](http://shiffman.net/) [+](http://thecodingtrain.com/)
+  - Open Processing [+](https://www.openprocessing.org/)
+- Collaborative programming
+  - Teletype [+](http://teletype.atom.io)
+
+###### Letture/progetto W2
+1. lettura tre casi studio di riferimento
+
+### Altri materiali da approfondire (via slack #general #materiali)
+- Sull'open source
+  - _What Does “Open Source” Even Mean?_, Jen Kagan [+](https://medium.com/@kenjagan/what-does-open-source-even-mean-6bd47befe696)
+  - _Processing and FLOSS_, Casey Reas [+](https://medium.com/processing-foundation/processing-and-floss-d35aa4607f4c)
+- Tutorial _Hello world_ Processing [+](http://hello.processing.org/) [+](https://vimeo.com/140600280)
+- Editor IDE per P5js (alpha) [+](https://editor.p5js.org/)
