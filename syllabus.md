@@ -23,7 +23,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 - _Valence_, 1999, Ben Fry [+](http://benfry.com/valence/)
 - _Genome Valence_, 2002, Ben Fry [+](http://benfry.com/genomevalence/)
-- _Tron Legacy_, 2010, JT Nimoy/Gmunk [+](http://jtnimoy.com/blogs/projects/14881671-tron-legacy) [+](http://www.inventinginteractive.com/2011/03/02/interview-gmunk/) [+](http://work.gmunk.com/filter/Select/TRON-Solar-Sailor)
+- _Tron Legacy_, 2010, JT Nimoy/Gmunk [+](http://jtnimoy.net/item.php?handle=14881671-tron-legacy) [+](http://www.inventinginteractive.com/2011/03/02/interview-gmunk/) [+](https://gmunk.com/TRON-Solar-Sailor)
 
 ![Ma gli androidi sognano pecore elettriche?, 1968, Philip K. Dick](https://i.imgur.com/T5I4bKm.jpg?1) ![Do Androids Dream of Electric Sheep?, 1968, Philip K. Dick](https://i.imgur.com/q5K9FcL.jpg?1)
 
