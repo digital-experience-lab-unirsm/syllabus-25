@@ -93,7 +93,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ### Giochi senza frontiere: Processing. _Making visible._
 
 ### Lab
-- esercitazione, giochi senza frontiere [+](https://github.com/dsii-2019-unirsm/archive/tree/master/2019/W3/esercitazione)
+- esercitazione, giochi senza frontiere [+](https://github.com/dsii-2019-unirsm/archive/tree/master/2019/W3_esercitazione)
 - Giro in giro. Making visible. Sulle cose invisibili. Sul visibile. Approccio alla progettazione e al concept design. Disegnare, silenzio e deep drawing. Vediamo col cervello? Cos'è il vedere? 
 - _Sul guardare_, _Ways of seeing_, ..., John Berger [+](https://www.youtube.com/watch?v=0pDE4VX_9Kk)
 - _Guardare, pensare, progettare. Neuroscienze per il design_, Riccardo Falcinelli [+](http://aiapzine.aiap.it/notizie/13565)
