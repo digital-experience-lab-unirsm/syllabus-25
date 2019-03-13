@@ -81,4 +81,4 @@ Lunedì ore 18:30
 
 ## syllabus
 
-_in progress_
+Dettaglio: [syllabus.md](https://github.com/dsii-2019-unirsm/syllabus/blob/master/syllabus.md)
