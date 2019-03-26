@@ -118,3 +118,51 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 ###### { d'ora in poi tutte consegne su Github via _pull request_ }
 
+## W4
+### Pre-Openday. Vettori, Git, ... 
+
+## W4.5
+### Tre casi studio. Making visible & more + the AI/Ml issue.
+
+![Listening Post, 2000+, Mark H_ansen & Ben Rubin](http://i.imgur.com/L9etHPR.jpg?1)
+
+- _Listening Post_, 2000+, Mark Hansen & Ben Rubin [+](https://vimeo.com/3885443)
+
+![The flow towards Europe, 2015, Lucify](http://i.imgur.com/k9lRhdY.png?1) ![Immaterials: Light painting WiFi, 2012, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen](http://i.imgur.com/4wU4Oia.jpg?1) ![Monument, 2006, Caleb Larsen](http://i.imgur.com/8PHa7mG.jpg?1)
+
+- _The flow towards Europe_, 2015, Lucify [+](http://www.lucify.com/the-flow-towards-europe/) [+](https://medium.com/@lucify/a-novel-visualisation-of-the-refugee-crisis-565e40ab5a50#.wgzzkbfpn)  
+- _Immaterials: Light painting WiFi_, 2012, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen [+](http://www.nearfield.org/2011/02/wifi-light-painting) [+](http://www.yourban.no/2011/03/07/making-immaterials-light-painting-wifi/) [+](http://www.yourban.no/2012/06/06/projects-inspired-by-immaterials-light-painting-wifi/)  
+- _Monument_, 2006, Caleb Larsen [+](http://www.podcast-directory.co.uk/episodes/monument-if-it-bleeds-it-leads-caleb-larsen-15152482.html) [+](http://caleblarsen.com/monument/)  
+
+![All the names | 9/11 Memorial, 2009, Jer Thorp+](http://i.imgur.com/0l5ArXT.png?1) ![Dear Data, 2015, Giorgia Lupi & Stefanie Posavec](http://i.imgur.com/ajsEvo6.jpg?1)
+
+- All the names | 9/11 Memorial, 2009, Jer Thorp [+](http://blog.blprnt.com/blog/blprnt/all-the-names/)
+- _Make data more human_, Jer Thorp/TED [+](http://www.ted.com/talks/jer_thorp_make_data_more_human)
+- Information design studios: The O.C.R. [+](https://ocr.nyc/), Fathom [+](https://fathom.info/) and Accurat [+](http://accurat.it/)
+- _Dear Data_, 2015, Giorgia Lupi & Stefanie Posavec [+](http://www.dear-data.com/)
+
+### Lab
+
+- Default Vs OOP: the Openday 2018 case. Let's _rewrite_ "Are we human enough?" by Davide Onestini@DSII-2017-unirsm: project Pdf [+](https://github.com/dsii-2017-unirsm/dsii-2017-archive/blob/master/davideonestini/making-visible/davideonestini-humanrights-def.pdf), Processing before [+](https://github.com/dsii-2017-unirsm/dsii-2017-archive/tree/master/davideonestini/making-visible/coding/davideonestini_awhe) and after  [+](https://github.com/dsii-2018-unirsm/archive/tree/master/2018/openday/opendayP3dOOP)
+
+- ML, DL and Design ideas
+  - Image-to-Image Demo, Christopher Hesse [+](https://affinelayer.com/pixsrv/)
+  - Style Tranfer, Gene Kogan [+](http://genekogan.com/works/style-transfer/)
+  - ml5, Daniel Shiffman [+](https://ml5js.github.io/)
+  - Airbnb design/ _Sketching interfaces ..._ [+](https://airbnb.design/sketching-interfaces/)
+- frameworks ML & js
+  - ml5 [+](http://ml5js.org/)
+  - magenda [+](https://magenta.tensorflow.org/)
+  
+### colab project for USMARADIO
+- let's start, brainstorming
+  
+###### letture/progetto
+1. rilettura tre casi studio di riferimento
+
+###### compiti/esercitazioni P5js/Processing
+1. riordinare materiali
+2. proseguire i lavori su 10Print
+
+###### compiti/progetto
+1. ricerca contesto e idee, allargare
