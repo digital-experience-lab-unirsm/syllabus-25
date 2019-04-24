@@ -166,3 +166,11 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 ###### compiti/progetto
 1. ricerca contesto e idee, allargare
+
+
+## W5
+### Arduino & friends. 
+
+## W6.5
+### Proposte progettuali. Milestone per lanciare lavori progetto def.
+
