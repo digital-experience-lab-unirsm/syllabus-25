@@ -178,11 +178,11 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ## W7.5
 ### _Proposte progettuali. Rev. 1 vs. 1._
 
-![No Fun, 2010, Eva & Franco Mattes](http://i.imgur.com/Vc5KjWR.jpg?1) ![Marcel-lì Antúnez Roca]() ![Stelarc]()
+![No Fun, 2010, Eva & Franco Mattes](http://i.imgur.com/Vc5KjWR.jpg?1) ![Marcel-lì Antúnez Roca](https://i.imgur.com/sGSF2Kq.jpg?1) ![Stelarc](https://i.imgur.com/zCrGBZv.jpg?1)
 
 - _No Fun_, 2010, Eva & Franco Mattes [+](https://0100101110101101.org/no-fun/)[+](https://0100101110101101.org/)
 - Marcel-lì Antúnez Roca [+](http://marceliantunez.com/)[+](http://www.digitalperformance.it/?p=904)
-- Stelarc [+]()[+]()
+- Stelarc [+](https://stelarc.org/)[+](https://www.artribune.com/arti-visive/arte-contemporanea/2017/12/intervista-stelarc/)
 
 
 ### Lab
