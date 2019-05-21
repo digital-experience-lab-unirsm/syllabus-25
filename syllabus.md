@@ -169,13 +169,13 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 1. ricerca contesto e idee, allargare
 
 
-## W5
+## W6
 ### Arduino & friends.
 
 ## W6.5
 ### Proposte progettuali. Milestone per lanciare lavori progetto def. Rev. collettiva.
 
-## W7.5
+## W7
 ### _Proposte progettuali. Rev. 1 vs. 1._
 
 ![No Fun, 2010, Eva & Franco Mattes](http://i.imgur.com/Vc5KjWR.jpg?1) ![Marcel-lì Antúnez Roca](https://i.imgur.com/sGSF2Kq.jpg?1) ![Stelarc](https://i.imgur.com/zCrGBZv.jpg?1)
@@ -201,3 +201,33 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ###### compiti/progetto
 1. approfondimento, stringere su due idee complete
 2. fare self close reading
+
+
+## W8 – W9
+### Lab, referenze e revisione. Milestone.
+
+## W10
+### Lab progetto, revisione a coppie, prototipo/i, dashboard. Cronoprogramma.
+
+### Lab
+- Progetto, revisione.
+- GUI
+  - in Processing
+    - ControlP5 [+](http://www.sojamo.de/libraries/controlP5/)
+  - GUI libs in Js / P5.js / Ml5
+    - via DOM [+](https://p5js.org/reference/#/libraries/p5.dom)
+    - uil simple javascript ui [+](https://github.com/lo-th/uil)
+    - DAT.gui [+](https://github.com/dataarts/dat.gui)
+- 3D orbital control
+  - in Processing
+    - PeasyCam [+](http://mrfeinberg.com/peasycam/)
+  - in P5.js
+    - P5.easycam [+](https://diwi.github.io/p5.EasyCam/)
+
+###### compiti/progetto
+1. lavorare al/i prototipo/i come condiviso in revisione
+2. preparare bozza documento di progetto usando griglia fornita
+
+## W11
+
+## W12
