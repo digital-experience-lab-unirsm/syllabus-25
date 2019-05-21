@@ -204,12 +204,11 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 
 ## W8 – W9
-### Lab, referenze e revisione. Milestone.
+### Lab, referenze e revisione. Milestone.
 
 ## W10
 ### Lab progetto, revisione a coppie, prototipo/i, dashboard. Cronoprogramma.
 
-### Lab
 - Progetto, revisione.
 - GUI
   - in Processing
