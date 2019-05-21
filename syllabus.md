@@ -209,7 +209,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ## W10
 ### Lab progetto, revisione a coppie, prototipo/i, dashboard. Cronoprogramma.
 
-### Lab
+### Lab
 - Progetto, revisione.
 - GUI
   - in Processing
