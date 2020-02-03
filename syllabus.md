@@ -60,7 +60,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - Processing [+](http://www.processing.org)
   - editor IDE | console | play
 - P5js [+](http://www.p5js.org)
-  - editor 
+  - editor
     - Editor IDE per P5js [+](https://editor.p5js.org/)
     - Atom [+](https://atom.io/) | ispeziona elemento | ricarica
 - Explorative programming
@@ -94,7 +94,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 ### Lab
 - esercitazione, giochi senza frontiere [+](https://github.com/dsii-2019-unirsm/archive/tree/master/2019/W3_esercitazione)
-- Giro in giro. Making visible. Sulle cose invisibili. Sul visibile. Approccio alla progettazione e al concept design. Disegnare, silenzio e deep drawing. Vediamo col cervello? Cos'è il vedere? 
+- Giro in giro. Making visible. Sulle cose invisibili. Sul visibile. Approccio alla progettazione e al concept design. Disegnare, silenzio e deep drawing. Vediamo col cervello? Cos'è il vedere?
 - _Sul guardare_, _Ways of seeing_, ..., John Berger [+](https://www.youtube.com/watch?v=0pDE4VX_9Kk)
 - _Guardare, pensare, progettare. Neuroscienze per il design_, Riccardo Falcinelli [+](http://aiapzine.aiap.it/notizie/13565)
 - _Come gli hippie hanno salvato la fisica_, David Kaiser
@@ -119,7 +119,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ###### { d'ora in poi tutte consegne su Github via _pull request_ }
 
 ## W4
-### Pre-Openday. Vettori, Git, ... 
+### Pre-Openday. Vettori, Git, ...
 
 ## W4.5
 ### Tre casi studio. Making visible & more + the AI/Ml issue.
@@ -146,17 +146,18 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - Default Vs OOP: the Openday 2018 case. Let's _rewrite_ "Are we human enough?" by Davide Onestini@DSII-2017-unirsm: project Pdf [+](https://github.com/dsii-2017-unirsm/dsii-2017-archive/blob/master/davideonestini/making-visible/davideonestini-humanrights-def.pdf), Processing before [+](https://github.com/dsii-2017-unirsm/dsii-2017-archive/tree/master/davideonestini/making-visible/coding/davideonestini_awhe) and after  [+](https://github.com/dsii-2018-unirsm/archive/tree/master/2018/openday/opendayP3dOOP)
 
 - ML, DL and Design ideas
-  - Image-to-Image Demo, Christopher Hesse [+](https://affinelayer.com/pixsrv/)
+ - Image-to-Image Demo, Christopher Hesse [+](https://affinelayer.com/pixsrv/)
   - Style Tranfer, Gene Kogan [+](http://genekogan.com/works/style-transfer/)
   - ml5, Daniel Shiffman [+](https://ml5js.github.io/)
   - Airbnb design/ _Sketching interfaces ..._ [+](https://airbnb.design/sketching-interfaces/)
+
 - frameworks ML & js
   - ml5 [+](http://ml5js.org/)
-  - magenda [+](https://magenta.tensorflow.org/)
-  
+  - magenta [+](https://magenta.tensorflow.org/)
+
 ### colab project for USMARADIO
 - let's start, brainstorming
-  
+
 ###### letture/progetto
 1. rilettura tre casi studio di riferimento
 
@@ -166,3 +167,66 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 ###### compiti/progetto
 1. ricerca contesto e idee, allargare
+
+
+## W6
+### Arduino & friends.
+
+## W6.5
+### Proposte progettuali. Milestone per lanciare lavori progetto def. Rev. collettiva.
+
+## W7
+### _Proposte progettuali. Rev. 1 vs. 1._
+
+![No Fun, 2010, Eva & Franco Mattes](http://i.imgur.com/Vc5KjWR.jpg?1) ![Marcel-lì Antúnez Roca](https://i.imgur.com/sGSF2Kq.jpg?1) ![Stelarc](https://i.imgur.com/zCrGBZv.jpg?1)
+
+- _No Fun_, 2010, Eva & Franco Mattes [+](https://0100101110101101.org/no-fun/)[+](https://0100101110101101.org/)
+- Marcel-lì Antúnez Roca [+](http://marceliantunez.com/)[+](http://www.digitalperformance.it/?p=904)
+- Stelarc [+](https://stelarc.org/)[+](https://www.artribune.com/arti-visive/arte-contemporanea/2017/12/intervista-stelarc/)
+
+
+### Lab
+- Progetto, revisione
+- Google Maps Platform _"Trasforma il mondo in un parco giochi"_ [+](https://www.theverge.com/2018/3/14/17114494/google-maps-location-games-jurassic-world-walking-dead)[+](https://cloud.google.com/maps-platform/gaming/)
+- _Speculative Everything. Design, Fiction, and Social Dreaming_, 2013, Anthony Dunne & Fiona Raby [+](https://mitpress.mit.edu/books/speculative-everything)
+
+###### letture/progetto
+1. rilettura tre casi studio di riferimento
+
+###### compiti/esercitazioni P5js/Processing
+1. riordinare tutti i materiali sulla repository
+2. proseguire i lavori su 10Print
+3. proseguire i lavori su dataviz
+
+###### compiti/progetto
+1. approfondimento, stringere su due idee complete
+2. fare self close reading
+
+
+## W8 – W9
+### Lab, referenze e revisione. Milestone.
+
+## W10
+### Lab progetto, revisione a coppie, prototipo/i, dashboard. Cronoprogramma.
+
+- Progetto, revisione.
+- GUI
+  - in Processing
+    - ControlP5 [+](http://www.sojamo.de/libraries/controlP5/)
+  - GUI libs in Js / P5.js / Ml5
+    - via DOM [+](https://p5js.org/reference/#/libraries/p5.dom)
+    - uil simple javascript ui [+](https://github.com/lo-th/uil)
+    - DAT.gui [+](https://github.com/dataarts/dat.gui)
+- 3D orbital control
+  - in Processing
+    - PeasyCam [+](http://mrfeinberg.com/peasycam/)
+  - in P5.js
+    - P5.easycam [+](https://diwi.github.io/p5.EasyCam/)
+
+###### compiti/progetto
+1. lavorare al/i prototipo/i come condiviso in revisione
+2. preparare bozza documento di progetto usando griglia fornita
+
+## W11
+
+## W12
