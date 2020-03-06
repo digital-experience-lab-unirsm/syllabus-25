@@ -79,7 +79,7 @@ _Molti altri materiali di approfondimento saranno segnalati durante il laborator
 Conoscenza lingua inglese. Attitudine alla collaborazione. Iniziativa e spirito critico.
 
 ## Orario di ricevimento
-Lunedì ore 18:30
+Giovedì ore 18:45
 
 ## syllabus
 
