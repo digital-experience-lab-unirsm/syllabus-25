@@ -1,14 +1,15 @@
-# DSII 2019 | Laboratorio design di sistemi interattivi per informazione (ICAR/13)
+# DSII 2020 | Laboratorio design di sistemi interattivi per informazione (ICAR/13)
 
 Docente: _Daniele Tabellini_ [@fupete](http://twitter.com/fupete) ([github.com/fupete](http://github.com/fupete))  
+Collaboratore _Irene Trotta [@iretrtr](http://twitter.com/iretrtr) ([github.com/iretrtr](http://github.com/iretrtr)) 
 
 **Corso di Laurea magistrale in Design**   
-**A/A 2018-19** [@unirsm](http://twitter.com/unirsm) ([design.unirsm.sm](http://design.unirsm.sm))  
+**A/A 2019-20** [@unirsm](http://twitter.com/unirsm) ([design.unirsm.sm](http://design.unirsm.sm))  
 Università della Repubblica di San Marino
 
 ---
 
-_Nota: oggi inizia il quarto anno di questo syllabus sull'invisibile. Sto raccogliendo quanto fatto in un libro che parlerà di approccio, progetti e idee in FLOSS (Free Libre Open Source). Il primo capitolo, personale, è qui: [https://medium.com/@Fupete/dsii-unirsm-7961a5a6d1c5](https://medium.com/@Fupete/dsii-unirsm-7961a5a6d1c5). Feedback are welcome. Ciao. C u, Daniele @fupete._
+_Nota: oggi inizia il quindi anno di questo syllabus sull'invisibile. Sto raccogliendo da un po' quanto fatto in un libro che parlerà di approccio, progetti e idee in FLOSS (Free Libre Open Source). Il primo capitolo, personale, è qui: [https://medium.com/@Fupete/dsii-unirsm-7961a5a6d1c5](https://medium.com/@Fupete/dsii-unirsm-7961a5a6d1c5). Feedback are welcome. Ciao. C u, Daniele @fupete._
 
 ---
 
@@ -20,6 +21,7 @@ Lo studente acquisisce la capacità di gestire e progettare sistemi relazionali
 
 
 ### _Making visible: expressive computational approaches to meaning_
+### _Untitled machine intelligence, the machine learning chapter_
 
 ### Intro
 Scrivere algoritmi _e progettare strumenti analogici e digitali_ per la ricerca, raccolta, visualizzazione e _remix_ di informazioni e dati _in tempo reale_ &rarr; _coding, data, api, scraping, sensors, remix, ml_  
@@ -39,7 +41,7 @@ Evidendiare, far emergere, rendere tangibili e dotate di fisicità quelle _carat
 Partecipazione. Lapis e carta. Software e hardware opensource (Git, Atom, Processing, P5js, Ml5, Raw, Openrefine, Arduino, ...). Computer e device con approccio BYOD (Bring Your Own Device). Laboratorio di fotografia e stampa 3D
 
 ### _Repository_
-_in progress_
+[github.com/dsii-2020-unirsm](https://github.com/dsii-2020-unirsm/)
 
 ## Modalità esame
 Esame orale, presentazione e analisi del progetto (prototipo/i, _code_,  documentazione e contributi), discussione 
