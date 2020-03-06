@@ -83,4 +83,4 @@ Giovedì ore 18:45
 
 ## syllabus
 
-Dettaglio: [syllabus.md](https://github.com/dsii-2019-unirsm/syllabus/blob/master/syllabus.md)
+Dettaglio: [syllabus.md](https://github.com/dsii-2020-unirsm/syllabus/blob/master/syllabus.md)
