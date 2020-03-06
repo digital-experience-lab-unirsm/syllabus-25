@@ -82,9 +82,9 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 ### Altri materiali da approfondire via slack
 - Covid e dataviz
-  - https://www.theatlantic.com/technology/archive/2020/03/how-many-americans-really-have-coronavirus/607348/
-  - https://www.worldometers.info/coronavirus/
-  - https://nextstrain.org/ncov e https://nextstrain.org/narratives/ncov/sit-rep/2020-03-04
+  - The Official Coronavirus Numbers Are Wrong, and Everyone Knows It [+](https://www.theatlantic.com/technology/archive/2020/03/how-many-americans-really-have-coronavirus/607348/)
+  - WorldOMeters | Coronavirus [+](https://www.worldometers.info/coronavirus/)
+  - Nextstrain [+](https://nextstrain.org/ncov) [+](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-04)
 - Sull'open source
   - _What Does “Open Source” Even Mean?_, Jen Kagan [+](https://medium.com/@kenjagan/what-does-open-source-even-mean-6bd47befe696)
   - _Processing and FLOSS_, Casey Reas [+](https://medium.com/processing-foundation/processing-and-floss-d35aa4607f4c)
