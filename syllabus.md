@@ -128,7 +128,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - Information design studios: The O.C.R. [+](https://ocr.nyc/), Fathom [+](https://fathom.info/) and Accurat [+](http://accurat.it/)
 - _Dear Data_, 2015, Giorgia Lupi & Stefanie Posavec [+](http://www.dear-data.com/)
 
-### Lab
+### Lab
 - Perlin Noise, Ken Perlin
 - Diamo un'occhiata ai progetti e le tesi degli anni passati
 - Q&A
