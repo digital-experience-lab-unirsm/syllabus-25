@@ -53,7 +53,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ![The Source, 2004, Greyworld](http://i.imgur.com/1n622Q0.jpg?1) ![The Source, 2004, Greyworld](http://i.imgur.com/kPVYKuO.jpg?1) ![Museo della mente, 2008, Studio Azzurro](http://i.imgur.com/reqRHOs.jpg?1) ![Museo audiovisivo della Resistenza, 2000, Studio Azzurro](http://i.imgur.com/Jf75XmS.jpg?1)
 
 - _The Source_, 2004, Greyworld [+](https://en.wikipedia.org/wiki/Greyworld#The_Source_(2004)) [+](https://vimeo.com/10163398)
-- _Museo della mente_, 2008, Studio Azzurro [+](http://www.studioazzurro.com/index.php?com_works=&view=detail&work_id=42&option=com_works&Itemid=22&lang=it) [+](http://www.museodellamente.it/it/)
+- _Museo della mente_, 2008, Studio Azzurro [+](http://www.studioazzurro.com/opere/museo-laboratorio-della-mente/) [+](http://www.museodellamente.it/it/)
 - _Museo audiovisivo della Resistenza_, 2000, Studio Azzurro [+](http://www.studioazzurro.com/index.php?com_works=&view=detail&work_id=68&option=com_works&Itemid=22&lang=en) [+](https://vimeo.com/34843796)
 
 ### Lab
