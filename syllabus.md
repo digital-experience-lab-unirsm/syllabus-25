@@ -215,7 +215,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ### Lab
 - Progetto, revisione
 
-## REMOTE W8
+## REMOTE W7.5
 ### Lab, referenze e revisione. Milestone.
 
 ### Lab
