@@ -1,10 +1,10 @@
-# DSII 2020 | Laboratorio design di sistemi interattivi per informazione (ICAR/13)
+# DS 2021 | Laboratorio di design dei sistemi (ICAR/13)
 
 Docente: _Daniele Tabellini_ [@fupete](http://twitter.com/fupete) ([github.com/fupete](http://github.com/fupete))  
 Collaboratore _Irene Trotta_ [@iretrtr](http://twitter.com/iretrtr) ([github.com/iretrtr](http://github.com/iretrtr)) 
 
 **Corso di Laurea magistrale in Design**   
-**A/A 2019-20** [@unirsm](http://twitter.com/unirsm) ([design.unirsm.sm](http://design.unirsm.sm))  
+**A/A 2020-21** [@unirsm](http://twitter.com/unirsm) ([design.unirsm.sm](http://design.unirsm.sm))  
 Università della Repubblica di San Marino
 
 _Digital Art and Meaning: ..._, Simanowski 2011 :
