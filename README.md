@@ -1,36 +1,39 @@
-# DSII 2020 | Laboratorio design di sistemi interattivi per informazione (ICAR/13)
+# DS 2021 | Laboratorio di design dei sistemi (ICAR/13)
 
 Docente: _Daniele Tabellini_ [@fupete](http://twitter.com/fupete) ([github.com/fupete](http://github.com/fupete))  
 Collaboratrice: _Irene Trotta_ [@iretrtr](http://twitter.com/iretrtr) ([github.com/iretrtr](http://github.com/iretrtr)) 
 
 **Corso di Laurea magistrale in Design**   
-**A/A 2019-20** [@unirsm](http://twitter.com/unirsm) ([design.unirsm.sm](http://design.unirsm.sm))  
+**A/A 2020-21** [@unirsm](http://twitter.com/unirsm) ([design.unirsm.sm](http://design.unirsm.sm))  
 Università della Repubblica di San Marino
 
 ---
 
-_Nota: oggi inizia il quinto anno di questo syllabus sull'invisibile. Sto raccogliendo da un po' quanto fatto in un libro che parlerà di approccio, progetti e idee in FLOSS (Free Libre Open Source). Il primo capitolo, personale, è qui: [https://medium.com/@Fupete/dsii-unirsm-7961a5a6d1c5](https://medium.com/@Fupete/dsii-unirsm-7961a5a6d1c5). Feedback are welcome. Ciao. C u, Daniele @fupete._
+_Nota: oggi inizia il sesto anno di questo syllabus sull'invisibile. Sto raccogliendo da un po' quanto fatto in un libro che parlerà di approccio, progetti e idee in FLOSS (Free Libre Open Source). Il primo capitolo, personale, è qui: [https://medium.com/@Fupete/dsii-unirsm-7961a5a6d1c5](https://medium.com/@Fupete/dsii-unirsm-7961a5a6d1c5). Feedback are welcome. Ciao. C u, Daniele @fupete._
 
 ---
 
+## Mini descrizione
+
+Durante il laboratorio gli studenti si confrontano con l’ideazione, lo sviluppo e il racconto di progetti complessi e open source. Acquisiscono sul campo un metodo per l’approccio al generative design, al creative coding e al machine learning per il design. Imparano a creare i propri tool digitali e realizzare prototipi e artefatti finiti per la comunicazione e il product design.
+
+
 ## Obiettivi
 
-Lo studente acquisisce la capacità di gestire e progettare sistemi relazionali e interattivi legati alla comunicazione e al product design, nonché la capacità di gestire ambienti simulativi del progetto in contesti di media dimensione. Lo studio avanzato del linguaggio di programmazione per il design Processing/P5.js, l'introduzione ai linguaggi di programmazione Python e Javascript, l'utilizzo di tecnologie di prototipazione digitale come Arduino, sono requisiti che lo studente deve acquisire all’interno dell'insegnamento.
+Lo studente acquisisce la capacità di gestire, progettare e raccontare sistemi relazionali e interattivi legati alla comunicazione e al product design, nonché la capacità di gestire ambienti simulativi del progetto in contesti di media dimensione. Lo studio dei linguaggi e piattaforme di prototipazione, machine learning e versioning open source Git/Github, Processing, p5.js, ml5.js e Arduino, sono requisiti che lo studente deve acquisire all’interno dell'insegnamento.
 
-## Descrizione del progetto
+## Descrizione
 
-
-### _Making visible: expressive computational approaches to meaning_
-### _Untitled machine intelligence, the machine learning chapter_
+### Sottotitolo _ Making visible: expressive computational approaches to meaning. Untitled machine intelligence, the ML chapter. 
 
 ### Intro
-Scrivere algoritmi _e progettare strumenti analogici e digitali_ per la ricerca, raccolta, visualizzazione e _remix_ di informazioni e dati _in tempo reale_ &rarr; _coding, data, api, scraping, sensors, remix, ml_  
+Scrivere algoritmi _e progettare strumenti analogici e digitali_ per la ricerca, raccolta, visualizzazione e _remix_ di informazioni e dati _in tempo reale_ &rarr; _coding, data, api, scraping, sensors, remix, ai, ml.  
 
 ### Sviluppo
-Progettare installazioni, performance comunicative e sistemi interattivi per misurare e _rendere visibile l'invisibile_ &rarr; _art, installation, performance, interaction, design, tangible_  
+Progettare installazioni, performance comunicative e sistemi interattivi per misurare e _rendere visibile l'invisibile_ &rarr; _art, installation, performance, interaction, design, tangible.
 
 ### Brief
-Evidendiare, far emergere, rendere tangibili e dotate di fisicità quelle _caratteristiche_ immateriali che ogni istante intorno a noi, e attraverso noi, definiscono il carattere dei sistemi-comunità in cui viviamo e ci muoviamo, relazioniamo e percepiamo noi stessi, gli altri e il mondo: _valori, energie, possibilità, relazioni, interazioni, reti, flussi, fantasmi, ..._ &rarr; _meaning, hermeneutic, hacking, networking_  
+Evidendiare, far emergere, rendere tangibili e dotate di fisicità quelle _caratteristiche_ immateriali che ogni istante intorno a noi, e attraverso noi, definiscono il carattere dei sistemi-comunità in cui viviamo e ci muoviamo, relazioniamo e percepiamo noi stessi, gli altri e il mondo: _valori, energie, possibilità, relazioni, interazioni, reti, flussi, fantasmi, ..._ &rarr; _meaning, hermeneutic, hacking, networking.  
 
 ### Riferimenti
 - _The flow towards Europe_, 2015, Lucify
@@ -38,35 +41,34 @@ Evidendiare, far emergere, rendere tangibili e dotate di fisicità quelle _carat
 - _Monument_, 2006, Caleb Larsen
 
 ### Strumenti
-Partecipazione. Lapis e carta. Software e hardware opensource (Git, Atom, Processing, P5js, Ml5, Raw, Openrefine, Arduino, ...). Computer e device con approccio BYOD (Bring Your Own Device). Laboratorio di fotografia e stampa 3D
+Partecipazione. Lapis e carta. Board Slack del laboratorio. Software e hardware open source (Git, Atom, Processing, p5.js, ml5.js, Raw, Openrefine, Arduino, ...). Computer e device con approccio BYOD (Bring Your Own Device).
 
 ### _Repository_
 [github.com/dsii-2020-unirsm](https://github.com/dsii-2020-unirsm/)
 
 ## Modalità esame
-Esame orale, presentazione e analisi del progetto (prototipo/i, _code_,  documentazione e contributi), discussione 
+Esame orale, presentazione e analisi del progetto (prototipo/i, _code_,  documentazione e contributi), discussione. 
 
 ## Bibliografia
 
 #### essenziale
-- AA.VV.. _Generative Design: Visualize, Program, and Create with JavaScript in P5.js_, New York, Princeton Architectural Press, 2018 (code: https://github.com/generative-design)
-- AA.VV.. _10 PRINT CHR$(205.5+RND(1)); : GOTO 10_, Cambridge: MIT Press, 2012 (online: http://10print.org)
-- Graham, Paul. _Hackers & Painters.  Big Ideas from the Computer Age_, Sebastopol: O'Reilly, 2010
+- Gross, B., Bohnacker, H., Laub, J., & Lazzeroni, C. (2018). _Generative Design: Visualize, Program, and Create with JavaScript in p5.js_. Princeton Architectural Press. (code: https://github.com/generative-design)
+- Montfort, N., Baudoin, P., Bell, J., Bogost, I., & Douglass, J. (2014). _10 PRINT CHR$(205.5+RND(1)); : GOTO 10_. The MIT Press. (online: https://10print.org)
 
 _Molti altri materiali di approfondimento saranno segnalati durante il laboratorio_
 
 #### consigliata
-- Reas, Casey e Ben Fry. _Processing, second edition: A Programming Handbook for Visual Designers and Artists_, Cambridge: MIT Press, 2014
-- Fox Harrel, D.. _Phantasmal Media. An Approach to Imagination, Computation, and Expression_, Cambridge: MIT Press, 2013
-- AA.VV.. _Generative Design: Visualize, Program, and Create with Processing_, New York, Princeton Architectural Press, 2012 (code: http://www.generative-gestaltung.de/code)
-- Daniel Shiffman. _The Nature of Code: Simulating Natural Systems with Processing_, New York, 2012 - (Online e code: http://natureofcode.com)
-- Simanowski, Roberto. _Digital Art and Meaning: Reading Kinetic Poetry, Text Machines, Mapping Art, and Interactive Installations_, Minneapolis, University of Minnesota Press, 2011
-- Klanten, Robert, S. Ehmann and V. Hanschke. _A Touch of Code: Interactive Installations and Experiences_, Berlino: Die Gestalten Verlag, 2011
-- Reas, Casey, C. McWilliams and Lust. _Form+Code in Design, Art, and Architecture_, New York, Princeton Architectural Press, 2010 ­- (code: http://formandcode.com)
-- Maeda, John, _Creative Code: Aesthetics + Computation_, Londra, Thames & Hudson, 2004
-- Tufte, R. Edward, _The Visual Display of Quantitative Information_, second edition, Cheshire: Graphic Press, 2001
+- _Processing: A Programming Handbook for Visual Designers and Artists Hardcover_ – December 19, 2014. (2020). the mit press; second edition edition (december 19, 2014).
+- Graham, P. (2010). _Hackers & Painters: Big Ideas from the Computer Age_. O’Reilly Media.
+Bohnacker, H., Gross, B., Laub, J., & Lazzeroni, C. (2012). _Generative Design: Visualize, Program, and Create with Processing_. Princeton Architectural Press. (code: http://www.generative-gestaltung.de/code)
+- Shiffman, D. (2012). _The Nature of Code: Simulating Natural Systems with Processing. The Nature of Code_. (Online e code: http://natureofcode.com)
+- Simanowski, R. (2011). _Digital Art and Meaning: Reading Kinetic Poetry, Text Machines, Mapping Art, and Interactive Installations_. Univ Of Minnesota Press.
+- Klanten, R., Ehmann, S., & Hanschke. (2011). _A Touch of Code: Interactive Installations and Experiences_. Gestalten.
+- Reas, C., & McWilliams, C. (2010). _Form+Code in Design, Art, and Architecture_. Princeton Architectural Press. (code: http://formandcode.com)
+- Maeda, J., & Burns, R. (2004). _Creative Code: Aesthetics + Computation_. Thames & Hudson.
+- Tufte, E. R. (2001). _The Visual Display of Quantitative Information (2nd ed.)_. Graphics Pr.
 
-## Sitografia
+#### sitografia
 
 - http://creativeapplications.net  
 - http://processing.org
@@ -76,11 +78,10 @@ _Molti altri materiali di approfondimento saranno segnalati durante il laborator
 
 ## Prerequisiti
 
-Conoscenza lingua inglese. Attitudine alla collaborazione. Iniziativa e spirito critico.
+Lingua inglese. Attitudine alla collaborazione. Iniziativa e spirito critico.
 
 ## Orario di ricevimento
-Giovedì ore 18:45
+TBD
 
 ## syllabus
-
-Dettaglio: [syllabus.md](https://github.com/dsii-2020-unirsm/syllabus/blob/master/syllabus.md)
+Dettaglio: TBD
