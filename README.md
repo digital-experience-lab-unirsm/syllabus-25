@@ -84,4 +84,4 @@ Lingua inglese. Attitudine alla collaborazione. Iniziativa e spirito critico.
 TBD
 
 ## syllabus
-Dettaglio: TBD
+Dettaglio: https://github.com/ds-2021-unirsm/syllabus/blob/master/syllabus.md
