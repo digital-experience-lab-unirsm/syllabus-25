@@ -17,6 +17,10 @@ _Nota: oggi inizia il sesto anno di questo syllabus sull'invisibile. Sto raccogl
 
 Durante il laboratorio gli studenti si confrontano con l’ideazione, lo sviluppo e il racconto di progetti complessi e open source. Acquisiscono sul campo un metodo per l’approccio al generative design, al creative coding e al machine learning per il design. Imparano a creare i propri tool digitali e realizzare prototipi e artefatti finiti per la comunicazione e il product design.
 
+## Prerequisiti
+
+Lingua inglese. Attitudine alla collaborazione. Iniziativa e spirito critico.
+
 
 ## Obiettivi
 
@@ -47,7 +51,9 @@ Partecipazione. Lapis e carta. Board Slack del laboratorio. Software e hardware 
 [github.com/ds-2021-unirsm](https://github.com/ds-2021-unirsm/)
 
 ## Modalità esame
-Esame orale, presentazione e analisi del progetto (prototipo/i, _code_,  documentazione e contributi), discussione. 
+Esame orale, presentazione e analisi del progetto (prototipo/i, _code_, documentazione e contributi), discussione. 
+
+_Questi criteri possono subire leggere variazioni di peso percentuale a seconda delle modalità di svolgimento e dei risultati del laboratorio._ 
 
 ## Bibliografia
 
@@ -75,10 +81,6 @@ _Molti altri materiali di approfondimento saranno segnalati durante il laborator
 - http://p5js.org
 - http://ml5js.org
 - http://dataphys.org/list  
-
-## Prerequisiti
-
-Lingua inglese. Attitudine alla collaborazione. Iniziativa e spirito critico.
 
 ## Orario di ricevimento
 TBD
