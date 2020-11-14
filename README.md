@@ -53,8 +53,6 @@ Partecipazione. Lapis e carta. Board Slack del laboratorio. Software e hardware 
 ## Modalità esame
 Esame orale, presentazione e analisi del progetto (prototipo/i, _code_, documentazione e contributi), discussione. 
 
-_Questi criteri possono subire leggere variazioni di peso percentuale a seconda delle modalità di svolgimento e dei risultati del laboratorio._ 
-
 ## Bibliografia
 
 #### essenziale
