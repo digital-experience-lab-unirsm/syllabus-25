@@ -44,7 +44,7 @@ Evidendiare, far emergere, rendere tangibili e dotate di fisicità quelle _carat
 Partecipazione. Lapis e carta. Board Slack del laboratorio. Software e hardware open source (Git, Atom, Processing, p5.js, ml5.js, Raw, Openrefine, Arduino, ...). Computer e device con approccio BYOD (Bring Your Own Device).
 
 ### _Repository_
-[github.com/dsii-2020-unirsm](https://github.com/dsii-2020-unirsm/)
+[github.com/ds-2021-unirsm](https://github.com/ds-2021-unirsm/)
 
 ## Modalità esame
 Esame orale, presentazione e analisi del progetto (prototipo/i, _code_,  documentazione e contributi), discussione. 
