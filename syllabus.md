@@ -13,3 +13,9 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ----
 
 _work in progress_
+
+----
+
+Le settimane del laboratorio iniziano ufficialmente a febbraio 2021. 
+
+----
