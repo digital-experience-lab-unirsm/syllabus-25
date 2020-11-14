@@ -52,7 +52,7 @@ Esame orale, presentazione e analisi del progetto (prototipo/i, _code_,  documen
 ## Bibliografia
 
 #### essenziale
-- Gross, B., Bohnacker, H., Laub, J., & Lazzeroni, C. (2018). _Generative Design: Visualize, Program, and Create with JavaScript in p5.js_. Princeton Architectural Press. (code: https://github.com/generative-design)
+- Gross, B., Bohnacker, H., Laub, J., & Lazzeroni, C. (2018). _Generative Design: Visualize, Program, and Create with JavaScript in p5.js_. Princeton Architectural Press. (code: http://www.generative-gestaltung.de/2/ + https://github.com/generative-design)
 - Montfort, N., Baudoin, P., Bell, J., Bogost, I., & Douglass, J. (2014). _10 PRINT CHR$(205.5+RND(1)); : GOTO 10_. The MIT Press. (online: https://10print.org)
 
 _Molti altri materiali di approfondimento saranno segnalati durante il laboratorio_
@@ -60,7 +60,7 @@ _Molti altri materiali di approfondimento saranno segnalati durante il laborator
 #### consigliata
 - _Processing: A Programming Handbook for Visual Designers and Artists Hardcover_ – December 19, 2014. (2020). the mit press; second edition edition (december 19, 2014).
 - Graham, P. (2010). _Hackers & Painters: Big Ideas from the Computer Age_. O’Reilly Media.
-Bohnacker, H., Gross, B., Laub, J., & Lazzeroni, C. (2012). _Generative Design: Visualize, Program, and Create with Processing_. Princeton Architectural Press. (code: http://www.generative-gestaltung.de/code)
+Bohnacker, H., Gross, B., Laub, J., & Lazzeroni, C. (2012). _Generative Design: Visualize, Program, and Create with Processing_. Princeton Architectural Press. (code: http://www.generative-gestaltung.de/1/code + https://github.com/generative-design)
 - Shiffman, D. (2012). _The Nature of Code: Simulating Natural Systems with Processing. The Nature of Code_. (Online e code: http://natureofcode.com)
 - Simanowski, R. (2011). _Digital Art and Meaning: Reading Kinetic Poetry, Text Machines, Mapping Art, and Interactive Installations_. Univ Of Minnesota Press.
 - Klanten, R., Ehmann, S., & Hanschke. (2011). _A Touch of Code: Interactive Installations and Experiences_. Gestalten.
