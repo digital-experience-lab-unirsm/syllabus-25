@@ -9,7 +9,7 @@ Università della Repubblica di San Marino
 
 ---
 
-_Nota: oggi inizia il sesto anno di questo syllabus sull'invisibile. Sto raccogliendo da un po' quanto fatto in un libro che parlerà di approccio, progetti e idee in FLOSS (Free Libre Open Source). Il primo capitolo, personale, è qui: [https://medium.com/@Fupete/dsii-unirsm-7961a5a6d1c5](https://medium.com/@Fupete/dsii-unirsm-7961a5a6d1c5). Feedback are welcome. Ciao. C u, Daniele @fupete._
+_Nota: oggi inizia il sesto anno di questo syllabus sull'invisibile. Sto raccogliendo da un po' quanto fatto in un libro che parlerà di approccio, progetti e idee in FLOSS (Free Libre Open Source). Una traccia per il primo capitolo, personale, è qui: [https://medium.com/@Fupete/dsii-unirsm-7961a5a6d1c5](https://medium.com/@Fupete/dsii-unirsm-7961a5a6d1c5). Feedbacks are welcome. Ciao. C u, Daniele @fupete._
 
 ---
 
