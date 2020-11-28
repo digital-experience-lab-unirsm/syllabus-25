@@ -50,6 +50,13 @@ Partecipazione. Lapis e carta. Board Slack del laboratorio. Software e hardware 
 ### _Repository_
 [github.com/ds-2021-unirsm](https://github.com/ds-2021-unirsm/)
 
+## Criteri di valutazione
+- 15% partecipazione: presenza e collaborazione;
+- 10% testi: letture critiche di casi studio;
+- 10% gestione: repository github e board collettive su Miro e/o Figma;
+- 15% esercitazioni: due collettive durante il semestre più la consegna di una variazione significativa dell'algoritmo 10print in sede d'esame;
+- 50% progetto finale: ideazione e concept, processo di progettazione, revisioni periodiche, consegna e discussione prototipo/i e documentazione in sede d'esame.  
+
 ## Modalità esame
 Esame orale, presentazione e analisi del progetto (prototipo/i, _code_, documentazione e contributi), discussione. 
 
