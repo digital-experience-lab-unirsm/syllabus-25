@@ -81,7 +81,7 @@ _Molti altri materiali di approfondimento saranno segnalati durante il laborator
 
 #### sitografia
 
-- http://creativeapplications.net  
+- http://creativeapplications.net (account gratuito di classe per cortesia di Creative Applications)
 - http://processing.org
 - http://p5js.org
 - http://ml5js.org
