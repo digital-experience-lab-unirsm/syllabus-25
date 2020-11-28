@@ -1,4 +1,4 @@
-# DS 2021 | Laboratorio di design dei sistemi (ICAR/13) | 110 ore | 8 crediti
+# DS 2021 | Laboratorio di design dei sistemi (ICAR/13) | 110 ore/8 crediti
 
 Docente: _Daniele Tabellini_ [@fupete](http://twitter.com/fupete) ([github.com/fupete](http://github.com/fupete))  
 Collaboratrice: _Irene Trotta_ [@iretrtr](http://twitter.com/iretrtr) ([github.com/iretrtr](http://github.com/iretrtr)) 
