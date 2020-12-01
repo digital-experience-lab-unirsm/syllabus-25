@@ -37,7 +37,7 @@ Scrivere algoritmi _e progettare strumenti analogici e digitali_ per la ricerca,
 Progettare installazioni, performance comunicative e sistemi interattivi per misurare e _rendere visibile l'invisibile_ &rarr; _art, installation, performance, interaction, design, tangible.
 
 ### Brief
-Evidendiare, far emergere, rendere tangibili e dotate di fisicità quelle _caratteristiche_ immateriali che ogni istante intorno a noi, e attraverso noi, definiscono il carattere dei sistemi-comunità in cui viviamo e ci muoviamo, relazioniamo e percepiamo noi stessi, gli altri e il mondo: _valori, energie, possibilità, relazioni, interazioni, reti, flussi, fantasmi, ..._ &rarr; _meaning, hermeneutic, hacking, networking.  
+Evidenziare, far emergere, rendere tangibili e dotate di fisicità quelle _caratteristiche_ immateriali che ogni istante intorno a noi, e attraverso noi, definiscono il carattere dei sistemi-comunità in cui viviamo e ci muoviamo, relazioniamo e percepiamo noi stessi, gli altri e il mondo: _valori, energie, possibilità, relazioni, interazioni, reti, flussi, fantasmi, ..._ &rarr; _meaning, hermeneutic, hacking, networking.  
 
 ### Riferimenti
 - _The flow towards Europe_, 2015, Lucify
