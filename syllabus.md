@@ -12,8 +12,8 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 ----
 
-## W1
-### Introduzione. _Digital Art and Meaning._
+# W1
+## Introduzione. _Digital Art and Meaning._
 
 ![Vectorial Elevation, 1999, Rafael Lozano-Hemmer](http://i.imgur.com/BNxP95K.jpg?1) ![Urban/Mexico City, 2007, Spencer Tunick](http://i.imgur.com/XHkkirH.jpg?1)
 
@@ -30,7 +30,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 - _Ma gli androidi sognano pecore elettriche?_ (_Do Androids Dream of Electric Sheep?_), 1958, Philip K. Dick [+](https://it.wikipedia.org/wiki/Il_cacciatore_di_androidi) [+](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F)
 
-### Lab
+### Lab/\#core
 - _Close reading: what is | what does it mean | how it works | what if_
 - _The Cognitive Style of PowerPoint_, Edward Tufte [+](http://www.edwardtufte.com/tufte/books_pp) \*
 - _Hackers & Painters_, Paul Graham [+](http://www.paulgraham.com/hp.html) [+](http://paulgraham.com/hackpaint.html)
@@ -39,12 +39,12 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - FS-UAE Amiga Emulator [+](http://fs-uae.net/)
 - Deluxe Paint I [+](http://www.computerhistory.org/atchm/electronic-arts-deluxepaint-early-source-code/)
 
-### Lab \#tools
+#### Lab/\#tools
 - Github [+](https://github.com)
 - Slack [+](https://slack.com)
 - Figma [+](https://figma.com)
 
-#### filmografia
+#### Lab/\#filmografia
 - _Tron_, 1982
 - _Blade Runner_, 1982
 - _Minority Report_, 2002
@@ -52,7 +52,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - _Tron: Legacy_, 2010
 - _Blade Runner 2049_, 2017
 
-#### altre risorse
+#### Lab/\#altreRisorse
 - User Friendly - How the Hidden Rules of Design Are Changing the Way We Live, Work, and Play, Cliff Kuange & Robert Fabricant [+](https://www.goodreads.com/book/show/41940285-user-friendly)
 - Semiotica dell'investigazione, Eduardo Grillo
 
