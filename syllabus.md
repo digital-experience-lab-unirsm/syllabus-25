@@ -63,6 +63,55 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 1. Git/Github hello
 
 
+
+## W2
+### La lingua. _A computational approach to sketching ideas._
+
+![The Source, 2004, Greyworld](http://i.imgur.com/1n622Q0.jpg?1) ![The Source, 2004, Greyworld](http://i.imgur.com/kPVYKuO.jpg?1) ![Museo della mente, 2008, Studio Azzurro](http://i.imgur.com/reqRHOs.jpg?1) ![Museo audiovisivo della Resistenza, 2000, Studio Azzurro](http://i.imgur.com/Jf75XmS.jpg?1)
+
+- _The Source_, 2004, Greyworld [+](https://en.wikipedia.org/wiki/Greyworld#The_Source_(2004)) [+](https://vimeo.com/10163398)
+- _Museo della mente_, 2008, Studio Azzurro [+](http://www.studioazzurro.com/opere/museo-laboratorio-della-mente/) [+](http://www.museodellamente.it/it/)
+- _Museo audiovisivo della Resistenza_, 2000, Studio Azzurro [+](http://www.studioazzurro.com/index.php?com_works=&view=detail&work_id=68&option=com_works&Itemid=22&lang=en) [+](https://vimeo.com/34843796)
+
+### Lab
+- _Close reading/what does it mean_: metodo e approccio
+- Processing [+](http://www.processing.org)
+  - editor IDE | console | play
+- p5.js [+](http://www.p5js.org) (*video su streams "La lingua parte 1"*)
+  - editor
+    - Editor IDE per p5.js [+](https://editor.p5js.org/)
+    - Atom [+](https://atom.io/) | ispeziona elemento | ricarica
+    - P5LIVE [+](https://teddavis.org/p5live/)
+- Explorative programming 
+  - _sketches_, approccio espressivo
+  - commenti, formattazione, estetica della scrittura
+  - sintassi/_grammatica della lingua_
+  - _reference_/_dizionario della lingua_ [+](http://www.processing.org/reference) [+](https://p5js.org/reference/)
+  - librerie/_estendere la lingua_
+- Risorse utili
+  - Generative Gestaltung [+](http://www.generative-gestaltung.de/)
+  - Daniel Shiffman / _The Coding Train_ [+](http://shiffman.net/) [+](http://thecodingtrain.com/)
+  - Open Processing [+](https://www.openprocessing.org/)
+- Git / Github [+](https://git-scm.com/) [+](https://github.com/)
+  - Github _workflow_: _pull request_, _merge_, discussioni, _history_, _graphics_... [+](https://guides.github.com/introduction/flow/) [+](https://guides.github.com/) (*video su streams "La lingua parte 2"*)
+  - _Markdown_: _mastering Markdown_ [+](https://guides.github.com/features/mastering-markdown/)
+
+###### Letture/progetto W2
+1. lettura tre casi studio di riferimento
+
+### Altri materiali da approfondire
+- Covid e dataviz
+  - The Official Coronavirus Numbers Are Wrong, and Everyone Knows It [+](https://www.theatlantic.com/technology/archive/2020/03/how-many-americans-really-have-coronavirus/607348/)
+  - WorldOMeters | Coronavirus [+](https://www.worldometers.info/coronavirus/)
+  - Nextstrain [+](https://nextstrain.org)
+- Sull'open source
+  - _What Does “Open Source” Even Mean?_, Jen Kagan [+](https://medium.com/@kenjagan/what-does-open-source-even-mean-6bd47befe696)
+  - _Processing and FLOSS_, Casey Reas [+](https://medium.com/processing-foundation/processing-and-floss-d35aa4607f4c)
+- Tutorial _Hello world_ Processing [+](http://hello.processing.org/) [+](https://vimeo.com/140600280)
+- Processing >< p5.js [+](https://github.com/processing/p5.js/wiki/Transitioning-from-Processing) [+](https://www.youtube.com/watch?v=AmlAiKsiy0o) [+](https://www.youtube.com/watch?v=AsjPJ5AWkDc)
+- Gene Kogan p5.js tutorials on Trasformations [+](http://genekogan.com/code/p5js-transformations/) and Perlin Noise [+](http://genekogan.com/code/p5js-perlin-noise/)
+
+
 ----
 
 _work in progress_
