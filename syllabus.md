@@ -104,6 +104,11 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
   - The Official Coronavirus Numbers Are Wrong, and Everyone Knows It [+](https://www.theatlantic.com/technology/archive/2020/03/how-many-americans-really-have-coronavirus/607348/)
   - WorldOMeters | Coronavirus [+](https://www.worldometers.info/coronavirus/)
   - Nextstrain [+](https://nextstrain.org)
+  - Ten Considerations Before You Create Another Chart About COVID-19 [+](https://medium.com/nightingale/ten-considerations-before-you-create-another-chart-about-covid-19-27d3bd691be8)
+  - Creating data-driven maps of #COVID19 is hard [+](https://twitter.com/EvanMPeck/status/1235568532840120321)
+  - How the Virus Got Out [+](https://www.nytimes.com/interactive/2020/03/22/world/coronavirus-spread.html)
+  - Open-Source-COVID-19 | A global collection of Open Source projects during COVID-19 [+](http://open-source-covid-19.weileizeng.com/world)
+  - Coronavirus in Italia, i dati e la mappa [+](https://lab24.ilsole24ore.com/coronavirus/)
 - Sull'open source
   - _What Does “Open Source” Even Mean?_, Jen Kagan [+](https://medium.com/@kenjagan/what-does-open-source-even-mean-6bd47befe696)
   - _Processing and FLOSS_, Casey Reas [+](https://medium.com/processing-foundation/processing-and-floss-d35aa4607f4c)
