@@ -117,6 +117,25 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - Gene Kogan p5.js tutorials on Trasformations [+](http://genekogan.com/code/p5js-transformations/) and Perlin Noise [+](http://genekogan.com/code/p5js-perlin-noise/)
 
 
+
+## REMOTE W3
+### 4th Games without frontiers: the art chapter. Dataviz tools&books.  
+
+### Lab
+- esercitazione (\*vedi board Figma)
+- Dataviz, _tools&books by Irene Trotta_ [+](#link-da-aggiungere)
+  
+###### compiti
+1. integrare il Perlin Noise nel camminatore. Consegnare almeno due variazioni _significative_
+2. prima pull-request con i precedenti compiti
+3. _10 Print_ variazioni _significative_
+
+###### letture/progetto
+1. rilettura tre casi studio di riferimento
+
+###### { d'ora in poi tutte consegne su Github via _pull request_ }
+
+
 ----
 
 _work in progress_
