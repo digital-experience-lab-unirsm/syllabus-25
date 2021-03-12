@@ -128,7 +128,8 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ###### compiti
 1. integrare il Perlin Noise nel camminatore. Consegnare almeno due variazioni _significative_
 2. prima pull-request con i precedenti compiti
-3. _10 Print_ variazioni _significative_
+3. 4th Games without frontiers (continua)
+4. _10 Print_ variazioni _significative_ (continua)
 
 ###### letture/progetto
 1. rilettura tre casi studio di riferimento
