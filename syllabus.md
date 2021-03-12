@@ -123,7 +123,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 ### Lab
 - esercitazione (\*vedi board Figma)
-- Dataviz, _tools&books by Irene Trotta_ [+](#link-da-aggiungere)
+- Dataviz, _risorse, strumenti & the many faces of data_ by Irene Trotta [+](https://docs.google.com/presentation/d/1EOs77Z0Fd2t_jnHKUKrhaXtxlLyF4fZ7_0EYobZry_Y/edit?usp=sharing)
   
 ###### compiti
 1. integrare il Perlin Noise nel camminatore. Consegnare almeno due variazioni _significative_
