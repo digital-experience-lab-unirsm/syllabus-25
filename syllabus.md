@@ -137,6 +137,48 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ###### { d'ora in poi tutte consegne su Github via _pull request_ }
 
 
+
+
+## REMOTE W4
+### Perlin Noise, Vettori, Nature of Code. Making Visible.
+
+![Listening Post, 2000+, Mark H_ansen & Ben Rubin](http://i.imgur.com/L9etHPR.jpg?1)
+- _Listening Post_, 2000+, Mark Hansen & Ben Rubin [+](https://vimeo.com/3885443)
+
+![All the names | 9/11 Memorial, 2009, Jer Thorp+](http://i.imgur.com/0l5ArXT.png?1) ![Dear Data, 2015, Giorgia Lupi & Stefanie Posavec](http://i.imgur.com/ajsEvo6.jpg?1)
+
+- All the names | 9/11 Memorial, 2009, Jer Thorp [+](https://www.jerthorp.com/memorial)
+- _Make data more human_, Jer Thorp/TED [+](https://www.jerthorp.com/speaking)
+- Information design studios: The O.C.R. [+](https://ocr.nyc/), Fathom [+](https://fathom.info/) and Accurat [+](http://accurat.it/)
+- _Dear Data_, 2015, Giorgia Lupi & Stefanie Posavec [+](http://www.dear-data.com/)
+
+### Lab
+- Perlin Noise, Ken Perlin
+- Webinar: Designers Italia/Servizi digitali
+- Conferenza stampa: JR "La Ferita", Palazzo Strozzi
+- Q&A
+
+### Esercitazioni in p5.js
+1. programmare un generatore casuale di parole
+2. programmare un generatore di pattern usando la regolarità del modulo %
+3. dotare i camminatori di indipendenza
+4. incontri/scontri tra camminatori che cambiano la via
+5. camminatori che disegnano mondi
+
+### Altri materiali da approfondire 
+- _Nature of code_, Daniel Shiffman, cap. introduzione e 1 vettori [+](http://natureofcode.com/book/introduction/) [+](http://natureofcode.com/book/chapter-1-vectors/)
+- _Changes over time_, tutorial, Allison Parrish [+](https://creative-coding.decontextualize.com/changes-over-time/)
+
+###### compiti
+1. Esercitazioni in p5.js (continua)
+2. integrare il Perlin Noise nel camminatore. Consegnare almeno due variazioni _significative_ (continua)
+3. 4th Games without frontiers (continua)
+4. _10 Print_ variazioni _significative_ (continua)
+
+###### letture/progetto
+1. rilettura tre casi studio di riferimento
+
+
 ----
 
 _work in progress_
