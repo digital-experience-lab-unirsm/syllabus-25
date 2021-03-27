@@ -180,16 +180,14 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 
 
-## REMOTE W5 The AI/Ml issue
+## REMOTE W5 The AI/ML issue
 
-### Lab
-- Machine Learning
- - Image-to-Image Demo, Christopher Hesse [+](https://affinelayer.com/pixsrv/)
- - Style Tranfer, Gene Kogan [+](http://genekogan.com/works/style-transfer/)
- - Airbnb design/ _Sketching interfaces..._ [+](https://airbnb.design/sketching-interfaces/)
- - Visual intro to Machine Learning [+](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
- - Machine Learning + Design [+](https://machinelearning.design/)
- - Gene Kogan [+](https://genekogan.com/work/)
+### Lab 
+- Image-to-Image Demo, Christopher Hesse [+](https://affinelayer.com/pixsrv/)
+- Style Tranfer, Gene Kogan [+](http://genekogan.com/works/style-transfer/)
+- Airbnb design/ _Sketching interfaces..._ [+](https://airbnb.design/sketching-interfaces/)
+- Visual intro to Machine Learning [+](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+- Machine Learning + Design [+](https://machinelearning.design/)
 
 - Frameworks ML/JS
   - ml5 [+](http://ml5js.org/)
