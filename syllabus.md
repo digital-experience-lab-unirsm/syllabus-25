@@ -179,6 +179,36 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 1. rilettura tre casi studio di riferimento
 
 
+
+## REMOTE W5 The AI/Ml issue
+
+### Lab
+- Machine Learning
+ - Image-to-Image Demo, Christopher Hesse [+](https://affinelayer.com/pixsrv/)
+ - Style Tranfer, Gene Kogan [+](http://genekogan.com/works/style-transfer/)
+ - Airbnb design/ _Sketching interfaces..._ [+](https://airbnb.design/sketching-interfaces/)
+ - Visual intro to Machine Learning [+](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+ - Machine Learning + Design [+](https://machinelearning.design/)
+ - Gene Kogan [+](https://genekogan.com/work/)
+
+- Frameworks ML/JS
+  - ml5 [+](http://ml5js.org/)
+  - magenta [+](https://magenta.tensorflow.org/)
+  
+##### letture/progetto
+1. rilettura tre casi studio di riferimento
+
+###### compiti/esercitazioni P5js
+1. riordinare materiali
+2. proseguire i lavori su 10Print e su esercizi vari
+3. approfondimento esempi e metodi ml5
+
+###### compiti/progetto
+1. ricerca contesto e idee
+
+
+
+
 ----
 
 _work in progress_
