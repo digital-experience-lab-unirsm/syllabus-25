@@ -205,6 +205,28 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 1. ricerca contesto e idee
 
 
+## REMOTE W6 Concept design, early stage. Figma. 
+
+### Lab
+- The spreadsheet method
+  - P5js retrieve data from Google Spreadsheets/JSON [+](https://editor.p5js.org/fupete/sketches/CddwnLQiK)
+  - P5js retrieve data from Google Spreadsheets/JSON & make OOP [+](https://editor.p5js.org/fupete/sketches/oJcLKMzlA)
+
+### Progetto
+- Concept design, early stage (\*vedi board Figma)
+
+###### compiti/esercitazioni P5js
+1. riordinare materiali
+2. proseguire i lavori su 10Print e su esercizi vari
+3. approfondimento esempi e metodi ml5
+
+###### compiti/progetto
+1. approfondimento, stringere su due idee complete
+2. fare self close reading
+
+
+
+
 
 
 ----
