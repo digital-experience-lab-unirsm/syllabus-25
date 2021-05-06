@@ -228,11 +228,11 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 
 
-## REMOTE W7 
-### Concept design, revisione a coppie. Figma.
+## REMOTE W7–W8 
+### Concept design, revisioni a coppie e gruppi. Figma.
 
 ### Progetto
-- Concept design, early stage (\*vedi board Figma)
+- Concept design _evolve/spread/simplify_ (\*vedi board Figma)
 
 ### Lab
 - GUI
@@ -252,13 +252,13 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 1. proseguire i lavori su 10Print e su esercizi vari, integrare GUI
 
 ###### compiti/progetto
-1. approfondimento, consolidare idea e direzione come da revisione
+1. approfondimento, consolidare idee/a e direzione come da revisione/i
 2. fare self close reading e PR dedicata
 3. approfondimento esempi e metodi ml5/ML utili al progetto
 
 
-## REMOTE W8
-### Let's start prototyping, revisione.
+## REMOTE W9
+### Let's start prototyping, revisione. Cronoprogramma. 
 
 ### Progetto
 - Dal concept design alla prototipazione, approccio modulare
