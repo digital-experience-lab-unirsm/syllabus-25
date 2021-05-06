@@ -180,7 +180,8 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 
 
-## REMOTE W5 The AI/ML issue
+## REMOTE W5 
+### The AI/ML issue
 
 ### Lab 
 - Image-to-Image Demo, Christopher Hesse [+](https://affinelayer.com/pixsrv/)
@@ -205,7 +206,8 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 1. ricerca contesto e idee
 
 
-## REMOTE W6 Concept design, early stage. Figma. 
+## REMOTE W6 
+### Concept design, early stage. Figma. 
 
 ### Lab
 - The spreadsheet method
@@ -226,7 +228,40 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 
 
+## REMOTE W7 
+### Concept design, revisione a coppie. Figma.
 
+### Progetto
+- Concept design, early stage (\*vedi board Figma)
+
+### Lab
+- GUI
+  - in Processing
+    - ControlP5 [+](http://www.sojamo.de/libraries/controlP5/)
+  - GUI libs in Js / P5.js / Ml5
+    - via DOM [+](https://p5js.org/reference/#/libraries/p5.dom)
+    - uil simple javascript ui [+](https://github.com/lo-th/uil)
+    - DAT.gui [+](https://github.com/dataarts/dat.gui)
+- 3D orbital control
+  - in Processing
+    - PeasyCam [+](http://mrfeinberg.com/peasycam/)
+  - in P5.js
+    - P5.easycam [+](https://diwi.github.io/p5.EasyCam/)
+
+##### compiti/esercitazioni P5js
+1. proseguire i lavori su 10Print e su esercizi vari, integrare GUI
+
+###### compiti/progetto
+1. approfondimento, consolidare idea e direzione come da revisione
+2. fare self close reading e PR dedicata
+3. approfondimento esempi e metodi ml5/ML utili al progetto
+
+
+## REMOTE W8
+### Let's start prototyping, revisione.
+
+### Progetto
+- Dal concept design alla prototipazione, approccio modulare
 
 
 ----
