@@ -26,41 +26,15 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - _Genome Valence_, 2002, Ben Fry [+](http://benfry.com/genomevalence/)
 - _Tron Legacy_, 2010, JT Nimoy/Gmunk [+](https://jtnimoy.cc/item.php%3Fhandle=14881671-tron-legacy.html) [+](http://www.inventinginteractive.com/2011/03/02/interview-gmunk/) [+](https://gmunk.com/TRON-Solar-Sailor)
 
-![Ma gli androidi sognano pecore elettriche?, 1968, Philip K. Dick](https://i.imgur.com/T5I4bKm.jpg?1) ![Do Androids Dream of Electric Sheep?, 1968, Philip K. Dick](https://i.imgur.com/q5K9FcL.jpg?1)
-
-- _Ma gli androidi sognano pecore elettriche?_ (_Do Androids Dream of Electric Sheep?_), 1958, Philip K. Dick [+](https://it.wikipedia.org/wiki/Il_cacciatore_di_androidi) [+](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F)
-
 ### Lab/\#core
 - _Close reading: what is | what does it mean | how it works | what if_
 - _The Cognitive Style of PowerPoint_, Edward Tufte [+](http://www.edwardtufte.com/tufte/books_pp) \*
-- _Hackers & Painters_, Paul Graham [+](http://www.paulgraham.com/hp.html) [+](http://paulgraham.com/hackpaint.html)
 - _10 Print_, AA.VV. [+](http://www.10print.org)
-- Vice the Versatile Commodore Emulator [+](http://vice-emu.sourceforge.net/)
-- FS-UAE Amiga Emulator [+](http://fs-uae.net/)
-- Deluxe Paint I [+](http://www.computerhistory.org/atchm/electronic-arts-deluxepaint-early-source-code/)
 
 #### Lab/\#tools
 - Github [+](https://github.com)
 - Slack [+](https://slack.com)
 - Figma [+](https://figma.com)
-
-#### Lab/\#filmografia
-- _Tron_, 1982
-- _Blade Runner_, 1982
-- _Minority Report_, 2002
-- _Hulk_, 2003
-- _Tron: Legacy_, 2010
-- _Blade Runner 2049_, 2017
-
-#### Lab/\#altreRisorse
-- User Friendly - How the Hidden Rules of Design Are Changing the Way We Live, Work, and Play, Cliff Kuange & Robert Fabricant [+](https://www.goodreads.com/book/show/41940285-user-friendly)
-- Semiotica dell'investigazione, Eduardo Grillo
-
-###### compito
-1. _10 Print_/Cap. 35, _porting in processing_ + variazioni _significative_
-
-###### compito/progetto
-1. Git/Github hello
 
 
 ----
