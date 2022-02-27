@@ -69,7 +69,7 @@ _work in progress_
 
 ----
 
-Sillabi _weekly_ precedenti: [2021](https://github.com/dsii-2021-unirsm/dsii-2021-unirsm/blob/master/syllabus.md) [2020](https://github.com/dsii-2020-unirsm/dsii-2020-unirsm/blob/master/syllabus.md) [2019](https://github.com/dsii-2019-unirsm/syllabus/blob/master/syllabus.md) [2018](https://github.com/dsii-2018-unirsm/syllabus/blob/master/syllabus.md) [2017](https://github.com/dsii-2017-unirsm/syllabus/blob/master/syllabus.md) [2016](https://github.com/dsii-2016-unirsm/syllabus/blob/master/syllabus.md) / Repository _as is_ progetti: [2020](https://github.com/dsii-2020-unirsm) [2019](https://github.com/dsii-2019-unirsm) [2018](https://github.com/dsii-2018-unirsm) [2017](https://github.com/dsii-2017-unirsm) [2016](https://github.com/dsii-2016-unirsm)
+Sillabi _weekly_ precedenti: [2021](https://github.com/ds-2021-unirsm/syllabus-21/blob/master/syllabus.md) [2020](https://github.com/dsii-2020-unirsm/dsii-2020-unirsm/blob/master/syllabus.md) [2019](https://github.com/dsii-2019-unirsm/syllabus/blob/master/syllabus.md) [2018](https://github.com/dsii-2018-unirsm/syllabus/blob/master/syllabus.md) [2017](https://github.com/dsii-2017-unirsm/syllabus/blob/master/syllabus.md) [2016](https://github.com/dsii-2016-unirsm/syllabus/blob/master/syllabus.md) / Repository _as is_ progetti: [2020](https://github.com/dsii-2020-unirsm) [2019](https://github.com/dsii-2019-unirsm) [2018](https://github.com/dsii-2018-unirsm) [2017](https://github.com/dsii-2017-unirsm) [2016](https://github.com/dsii-2016-unirsm)
 
 ----
 
