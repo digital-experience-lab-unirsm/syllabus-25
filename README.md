@@ -28,7 +28,7 @@ Lo studente acquisisce la capacità di gestire, progettare e raccontare sistemi
 
 ## Descrizione
 
-### Sottotitolo _ Making visible: expressive computational approaches to meaning. Untitled machine intelligence, the ML chapter. 
+### Sottotitolo _ Making visible: expressive computational approaches to meaning. The Macbeth sessions.
 
 ### Intro
 Scrivere algoritmi _e progettare strumenti analogici e digitali_ per la ricerca, raccolta, visualizzazione e _remix_ di informazioni e dati _in tempo reale_ &rarr; _coding, data, api, scraping, sensors, remix, ai, ml.  
@@ -45,10 +45,10 @@ Evidenziare, far emergere, rendere tangibili e dotate di fisicità quelle _carat
 - _Monument_, 2006, Caleb Larsen
 
 ### Strumenti
-Partecipazione. Lapis e carta. Board Slack del laboratorio. Software e hardware open source (Git, Atom, Processing, p5.js, ml5.js, Raw, Openrefine, Arduino, ...). Computer e device con approccio BYOD (Bring Your Own Device).
+Partecipazione. Lapis e carta. Board Slack del laboratorio. Software e hardware open source (GitHub, Atom, Processing, p5.js, ml5.js, Three.js, Raw, Openrefine, Arduino, ...). Computer e device con approccio BYOD (Bring Your Own Device).
 
 ### _Repository_
-[github.com/ds-2021-unirsm](https://github.com/ds-2021-unirsm/)
+[github.com/ds-2022-unirsm](https://github.com/ds-2022-unirsm/)
 
 ## Criteri di valutazione
 - 15% partecipazione: presenza e collaborazione;
@@ -69,7 +69,8 @@ Esame orale, presentazione e analisi del progetto (prototipo/i, _code_, document
 _Molti altri materiali di approfondimento saranno segnalati durante il laboratorio_
 
 #### consigliata
-- _Processing: A Programming Handbook for Visual Designers and Artists Hardcover_ – December 19, 2014. (2020). the mit press; second edition edition (december 19, 2014).
+- Levin, G. & Brain, T. (2021) _Code as Creative Medium: A Handbook for Computational Art and Design_. The MIT Press.
+- Reas, C. & Fry, B. (2020/2nd ed.). _Processing: A Programming Handbook for Visual Designers and Artists Hardcover_. The MIT Press.
 - Graham, P. (2010). _Hackers & Painters: Big Ideas from the Computer Age_. O’Reilly Media.
 - Bohnacker, H., Gross, B., Laub, J., & Lazzeroni, C. (2012). _Generative Design: Visualize, Program, and Create with Processing_. Princeton Architectural Press. (code: http://www.generative-gestaltung.de/1/code + https://github.com/generative-design)
 - Shiffman, D. (2012). _The Nature of Code: Simulating Natural Systems with Processing. The Nature of Code_. (Online e code: http://natureofcode.com)
@@ -81,11 +82,12 @@ _Molti altri materiali di approfondimento saranno segnalati durante il laborator
 
 #### sitografia
 
-- http://creativeapplications.net (account gratuito di classe per cortesia di Creative Applications)
-- http://processing.org
-- http://p5js.org
-- http://ml5js.org
-- http://dataphys.org/list  
+- https://creativeapplications.net (disponibile account gratuito di classe, cortesia di Creative Applications)
+- https://processing.org
+- https://p5js.org
+- https://ml5js.org
+- https://threejs.org/
+- https://dataphys.org/list  
 
 ## Orario di ricevimento
 TBD
