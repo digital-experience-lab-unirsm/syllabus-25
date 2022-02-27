@@ -71,7 +71,7 @@ Liceo Statale Giulio Perticari e teatro "La Fenice" di Senigaglia, con la regia 
 _Molti altri materiali di approfondimento saranno segnalati durante il laboratorio_
 
 #### consigliata
-- Levin, G. & Brain, T. (2021) _Code as Creative Medium: A Handbook for Computational Art and Design_. The MIT Press.
+- Levin, G. & Brain, T. (2021). _Code as Creative Medium: A Handbook for Computational Art and Design_. The MIT Press.
 - Reas, C. & Fry, B. (2020/2nd ed.). _Processing: A Programming Handbook for Visual Designers and Artists Hardcover_. The MIT Press.
 - Graham, P. (2010). _Hackers & Painters: Big Ideas from the Computer Age_. O’Reilly Media.
 - Bohnacker, H., Gross, B., Laub, J., & Lazzeroni, C. (2012). _Generative Design: Visualize, Program, and Create with Processing_. Princeton Architectural Press. (code: http://www.generative-gestaltung.de/1/code + https://github.com/generative-design)
