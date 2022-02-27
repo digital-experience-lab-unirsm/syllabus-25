@@ -21,7 +21,6 @@ Durante il laboratorio gli studenti si confrontano con l’ideazione, lo svilupp
 
 Lingua inglese. Attitudine alla collaborazione. Iniziativa e spirito critico.
 
-
 ## Obiettivi
 
 Lo studente acquisisce la capacità di gestire, progettare e raccontare sistemi relazionali e interattivi legati alla comunicazione e al product design, nonché la capacità di gestire ambienti simulativi del progetto in contesti di media dimensione. Lo studio dei linguaggi e piattaforme di prototipazione, machine learning e versioning open source Git/Github, Processing, p5.js, ml5.js e Arduino, sono requisiti che lo studente deve acquisire all’interno dell'insegnamento.
@@ -37,7 +36,7 @@ Scrivere algoritmi _e progettare strumenti analogici e digitali_ per la ricerca,
 Progettare installazioni, performance comunicative e sistemi interattivi per misurare e _rendere visibile l'invisibile_ &rarr; _art, installation, performance, interaction, design, tangible.
 
 ### Brief
-Evidenziare, far emergere, rendere tangibili e dotate di fisicità quelle _caratteristiche_ immateriali che ogni istante intorno a noi, e attraverso noi, definiscono il carattere dei sistemi-comunità in cui viviamo e ci muoviamo, relazioniamo e percepiamo noi stessi, gli altri e il mondo: _valori, energie, possibilità, relazioni, interazioni, reti, flussi, fantasmi, ..._ &rarr; _meaning, hermeneutic, hacking, networking.  
+Evidenziare, far emergere, rendere tangibili e dotate di fisicità quelle _caratteristiche_ immateriali che ogni istante intorno a noi, e attraverso noi, definiscono il carattere dei sistemi-comunità in cui viviamo e ci muoviamo, relazioniamo e percepiamo noi stessi, gli altri e il mondo: _valori, energie, possibilità, relazioni, interazioni, reti, flussi, fantasmi, ..._ &rarr; _meaning, hermeneutic, hacking, networking.
 
 ### Riferimenti
 - _The flow towards Europe_, 2015, Lucify
@@ -59,6 +58,9 @@ Partecipazione. Lapis e carta. Board Slack del laboratorio. Software e hardware 
 
 ## Modalità esame
 Esame orale, presentazione e analisi del progetto (prototipo/i, _code_, documentazione e contributi), discussione. 
+
+### Collaborazioni per il progetto _The Macbeth sessions_
+Liceo Statale Giulio Perticari e teatro "La Fenice" di Senigaglia, con la regia di Giorgio Sebastianelli e la coreografia di Paola Piccioni.
 
 ## Bibliografia
 
