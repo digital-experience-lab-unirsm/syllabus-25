@@ -1,15 +1,15 @@
-# DS 2021 | Laboratorio di design dei sistemi (ICAR/13) | 110 ore/8 crediti
+# DS 2022 | Laboratorio di design dei sistemi (ICAR/13) | 110 ore/8 crediti
 
 Docente: _Daniele Tabellini_ [@fupete](http://twitter.com/fupete) ([github.com/fupete](http://github.com/fupete))  
 Collaboratrice: _Irene Trotta_ [@iretrtr](http://twitter.com/iretrtr) ([github.com/iretrtr](http://github.com/iretrtr)) 
 
 **Corso di Laurea magistrale in Design**   
-**A/A 2020-21** [@unirsm](http://twitter.com/unirsm) ([design.unirsm.sm](http://design.unirsm.sm))  
+**A/A 2021-22** [@unirsm](http://twitter.com/unirsm) ([design.unirsm.sm](http://design.unirsm.sm))  
 Università della Repubblica di San Marino
 
 ---
 
-_Nota: oggi inizia il sesto anno di questo syllabus sull'invisibile. Sto raccogliendo da un po' quanto fatto in un libro che parlerà di approccio, progetti e idee in FLOSS (Free Libre Open Source). Una traccia per il primo capitolo, personale, è qui: [https://medium.com/@Fupete/dsii-unirsm-7961a5a6d1c5](https://medium.com/@Fupete/dsii-unirsm-7961a5a6d1c5). Feedbacks are welcome. Ciao. C u, Daniele @fupete._
+_Nota: oggi inizia il settimo anno di questo syllabus sull'invisibile. Sto raccogliendo da un po' quanto fatto in un libro che parlerà di approccio, progetti e idee in FLOSS (Free Libre Open Source). Una traccia per il primo capitolo, personale, è qui: [https://medium.com/@Fupete/dsii-unirsm-7961a5a6d1c5](https://medium.com/@Fupete/dsii-unirsm-7961a5a6d1c5). Feedbacks are welcome. Ciao. C u, Daniele @fupete._
 
 ---
 
@@ -91,4 +91,4 @@ _Molti altri materiali di approfondimento saranno segnalati durante il laborator
 TBD
 
 ## syllabus
-Dettaglio (weekly): [syllabus.md](https://github.com/ds-2021-unirsm/syllabus/blob/master/syllabus.md)
+Dettaglio (weekly): [syllabus.md](https://github.com/ds-2022-unirsm/syllabus/blob/master/syllabus.md)
