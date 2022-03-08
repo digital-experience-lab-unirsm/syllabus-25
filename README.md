@@ -95,4 +95,4 @@ _Molti altri materiali di approfondimento saranno segnalati durante il laborator
 TBD
 
 ## syllabus
-Dettaglio (weekly): [syllabus.md](https://github.com/ds-2022-unirsm/syllabus/blob/master/syllabus.md)
+Dettaglio (weekly): [syllabus.md](https://github.com/ds-2022-unirsm/syllabus-22/blob/main/syllabus.md)
