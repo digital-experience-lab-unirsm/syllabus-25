@@ -113,8 +113,14 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ## W3
 ### La lingua. _A computational approach to sketching ideas. Part 2_
 
-Zach Lieberman eyes writer
-Golan Leving Messa di voce
+![The Secret Lives of Numbers, 2002, Golan Levine](http://i.imgur.com/qDrLG5X.jpg?1)
+![EyeWriter, Tempt1, Evan Roth, Chris Sugrue, Zach Lieberman, Theo Watson and James Powderly](https://i.imgur.com/Wo7Ej5G.jpg?2)
+![Messa di Voce, 2003, Golan Levin, Zachary Lieberman, Jaap Blonk, and Joan La Barbara](https://i.imgur.com/4zo8pF8.jpg?1)
+
+
+- _The Secret Lives of Numbers_, 2002, Golan Levin [+](http://www.flong.com/projects/slon/)
+- _EyeWriter_, Tempt1, Evan Roth, Chris Sugrue, Zach Lieberman, Theo Watson and James Powderly [+](http://eyewriter.org/)
+- _Messa di voce_, 2004, Golan Levin, Zachary Lieberman, Jaap Blonk, and Joan La Barbara [+](http://www.flong.com/projects/messa/)
 
 #### Lab
 - hands on P5.js: OOP, Random Walker, Perlin Noise (Ken Perlin)... (*XXX video su streams da caricare*)
