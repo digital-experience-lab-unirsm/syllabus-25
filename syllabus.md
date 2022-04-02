@@ -97,11 +97,11 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
   - Github _workflow_: _pull request_, _merge_, discussioni, _history_, _graphics_... [+](https://guides.github.com/introduction/flow/) [+](https://guides.github.com/) (*video su streams "W2-1-2022-github-flow-ds-22-720"*)
   - _Markdown_: _mastering Markdown_ [+](https://guides.github.com/features/mastering-markdown/)
 
-##### Lab/\#The Macbeth Sessions
+##### Lab/\#The Macbeth Sessions (inizio fase divergente)
 - Predisposizione board Figma dedicata con atti e scene
 
 #### Compiti
-1. tutorial OOP/P5.js (video su streams "Camminatori nello spazio e Noise 3D", parte 1 e parte 2 
+1. tutorial OOP/P5.js (video su streams "Camminatori nello spazio e Noise 3D", parte 1 e parte 2) 
 1. lettura tre casi studio di riferimento
 3. idee e casi studio per i diversi atti/scene su board Figma dedicata
 
@@ -122,11 +122,15 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - _EyeWriter_, Tempt1, Evan Roth, Chris Sugrue, Zach Lieberman, Theo Watson and James Powderly [+](http://eyewriter.org/)
 - _Messa di voce_, 2004, Golan Levin, Zachary Lieberman, Jaap Blonk, and Joan La Barbara [+](http://www.flong.com/projects/messa/)
 
-#### Lab
-- hands on P5.js: OOP, Random Walker, Perlin Noise (Ken Perlin)... (*XXX video su streams da caricare*)
-- intro to Ml5 (*XXX video su streams da caricare*)
+(*video su streams "w3-2-ml5-golan-levine-zach-lieberman-720"*)
 
-##### Lab/\#The Macbeth Sessions
+#### Lab
+- hands on P5.js: OOP, Random Walker, Perlin Noise (Ken Perlin)... 
+- intro to Ml5 
+
+(*video su streams "w3-1-oop-hands-on-p5js-720"*)
+
+##### Lab/\#The Macbeth Sessions (fase divergente)
 - lavoro in gruppi su idee e casi studio per i diversi atti/scene su board Figma dedicata
 - condivisione lavori
 - idea e concept design: tra limiti e possibilità
@@ -148,14 +152,25 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 
 ## W4
-### _work in progress_
-
-...
+### _In progress_
 
 #### Lab
+- recap + approfondimenti (*video su streams "w4-recap+preparazione-WS"*)
 
-##### Lab/\#The Macbeth Sessions
-- preparazione presentazione e WS con attori, vedi board Figma jam
+- Image-to-Image Demo, Christopher Hesse [+](https://affinelayer.com/pixsrv/)
+- Style Tranfer, Gene Kogan [+](http://genekogan.com/works/style-transfer/)
+- Airbnb design/ _Sketching interfaces..._ [+](https://airbnb.design/sketching-interfaces/)
+- Visual intro to Machine Learning [+](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+- Machine Learning + Design [+](https://machinelearning.design/)
+
+- Frameworks ML/JS
+  - ml5 [+](http://ml5js.org/)
+  - magenta [+](https://magenta.tensorflow.org/)
+
+##### Lab/\#The Macbeth Sessions (fase divergente)
+- continuo lavori su idee e casi studio per i diversi atti/scene su board Figma dedicata
+- preparazione presentazione e WS con attori/stakeholder, vedi board Figma jam
+- planning e calendario
 
 #### Compiti
 1. integrare il Perlin Noise nel camminatore. Consegnare almeno due variazioni _significative_ (continua)
@@ -165,6 +180,29 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ##### Altri materiali da approfondire in autonomia
 - _Nature of code_, Daniel Shiffman, cap. introduzione e 1 vettori [+](http://natureofcode.com/book/introduction/) [+](http://natureofcode.com/book/chapter-1-vectors/)
 - _Changes over time_, tutorial, Allison Parrish [+](https://creative-coding.decontextualize.com/changes-over-time/)
+
+
+
+## W5
+### Making Visible.
+
+![Listening Post, 2000+, Mark H_ansen & Ben Rubin](http://i.imgur.com/L9etHPR.jpg?1)
+- _Listening Post_, 2000+, Mark Hansen & Ben Rubin [+](https://vimeo.com/3885443)
+
+![All the names | 9/11 Memorial, 2009, Jer Thorp+](http://i.imgur.com/0l5ArXT.png?1) ![Dear Data, 2015, Giorgia Lupi & Stefanie Posavec](http://i.imgur.com/ajsEvo6.jpg?1)
+
+- All the names | 9/11 Memorial, 2009, Jer Thorp [+](https://www.jerthorp.com/memorial)
+- _Make data more human_, Jer Thorp/TED [+](https://www.jerthorp.com/speaking)
+- Information design studios: The O.C.R. [+](https://ocr.nyc/), Fathom [+](https://fathom.info/) and Accurat [+](http://accurat.it/)
+- _Dear Data_, 2015, Giorgia Lupi & Stefanie Posavec [+](http://www.dear-data.com/)
+
+...
+
+#### Lab
+- ...
+
+##### Lab/\#The Macbeth Sessions (fase convergente)
+- ...
 
 
 
