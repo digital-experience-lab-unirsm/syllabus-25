@@ -157,12 +157,12 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 #### Lab
 - recap + approfondimenti (*video su streams "w4-recap+preparazione-WS"*)
 
+##### Lab/\#The ML/AI Issue
 - Image-to-Image Demo, Christopher Hesse [+](https://affinelayer.com/pixsrv/)
 - Style Tranfer, Gene Kogan [+](http://genekogan.com/works/style-transfer/)
 - Airbnb design/ _Sketching interfaces..._ [+](https://airbnb.design/sketching-interfaces/)
 - Visual intro to Machine Learning [+](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - Machine Learning + Design [+](https://machinelearning.design/)
-
 - Frameworks ML/JS
   - ml5 [+](http://ml5js.org/)
   - magenta [+](https://magenta.tensorflow.org/)
