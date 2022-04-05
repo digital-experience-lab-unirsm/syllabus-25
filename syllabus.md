@@ -186,24 +186,25 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ## W5
 ### Making Visible.
 
-![Listening Post, 2000+, Mark H_ansen & Ben Rubin](http://i.imgur.com/L9etHPR.jpg?1)
-- _Listening Post_, 2000+, Mark Hansen & Ben Rubin [+](https://vimeo.com/3885443)
-
-![All the names | 9/11 Memorial, 2009, Jer Thorp+](http://i.imgur.com/0l5ArXT.png?1) ![Dear Data, 2015, Giorgia Lupi & Stefanie Posavec](http://i.imgur.com/ajsEvo6.jpg?1)
+![All the names | 9/11 Memorial, 2009, Jer Thorp+](http://i.imgur.com/0l5ArXT.png?1) 
 
 - All the names | 9/11 Memorial, 2009, Jer Thorp [+](https://www.jerthorp.com/memorial)
 - _Make data more human_, Jer Thorp/TED [+](https://www.jerthorp.com/speaking)
-- Information design studios: The O.C.R. [+](https://ocr.nyc/), Fathom [+](https://fathom.info/) and Accurat [+](http://accurat.it/)
-- _Dear Data_, 2015, Giorgia Lupi & Stefanie Posavec [+](http://www.dear-data.com/)
-
-...
 
 #### Lab
-- ...
+
+##### Lab/\#Games without frontiers I (esercitazione)
+- Algoritmi con p5.speech e ml5.PoseNet [+](https://github.com/IDMNYU/p5.js-speech)[+](https://learn.ml5js.org/#/reference/posenet)
 
 ##### Lab/\#The Macbeth Sessions (fase convergente)
-- ...
+- Tra supereroi, clusterizzazione e costruzione di senso
 
+#### Compiti
+1. integrare il Perlin Noise nel camminatore. Consegnare almeno due variazioni _significative_ (continua)
+2. _10 Print_ variazioni _significative_ (continua)
+3. rilettura tre casi studio di riferimento (continua)
+4. clusterizzare e convergere su 2-3 'idee narrative', presentazioni (a gruppi) **(consegna su Figma lunedì mattina)**
+5. algoritmo con p5.speech e Perlin Noise **(consegna su github lunedì mattina)**
 
 
 
