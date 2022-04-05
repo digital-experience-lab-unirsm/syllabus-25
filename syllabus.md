@@ -189,7 +189,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ![All the names | 9/11 Memorial, 2009, Jer Thorp+](http://i.imgur.com/0l5ArXT.png?1) 
 
 - All the names | 9/11 Memorial, 2009, Jer Thorp [+](https://www.jerthorp.com/memorial)
-- _Make data more human_, Jer Thorp/TED [+](https://www.jerthorp.com/speaking)
+- _Make data more human_, Jer Thorp/TED [+](https://www.ted.com/talks/jer_thorp_make_data_more_human)
 
 #### Lab
 
