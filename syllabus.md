@@ -197,14 +197,53 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - Algoritmi con p5.speech e ml5.PoseNet [+](https://github.com/IDMNYU/p5.js-speech)[+](https://learn.ml5js.org/#/reference/posenet)
 
 ##### Lab/\#The Macbeth Sessions (fase convergente)
-- Tra supereroi, clusterizzazione e costruzione di senso
+- Tra supereroi, clusterizzazione e costruzione di senso [FigJam]
 
 #### Compiti
 1. integrare il Perlin Noise nel camminatore. Consegnare almeno due variazioni _significative_ (continua)
 2. _10 Print_ variazioni _significative_ (continua)
 3. rilettura tre casi studio di riferimento (continua)
-4. clusterizzare e convergere su 2-3 'idee narrative', presentazioni (a gruppi) **(consegna su Figma lunedì mattina)**
+4. clusterizzare e convergere su 2-3 'idee narrative', presentazioni (a gruppi) [FigJam] **(consegna su Figma lunedì mattina)**
 5. algoritmo con p5.speech e Perlin Noise **(consegna su github lunedì mattina)**
+
+
+## W6–W7
+### Lab
+
+#### Lab/\#The Macbeth Sessions (fase convergente verso fase prototipazione)
+- Convergere su 2-3 'idee narrative', presentazioni (a gruppi) [FigJam] **con regista**
+- _Q&A_ e approfondimenti [FigJam]
+- Divergere e ri-convergere a gruppi rimescolati su quattro livelli di comunicazione non verbale: 
+  - streghe === natura
+  - follia === psiche
+  - lingua segreta === intimità
+  - violenza === caso
+
+#### Lab/\#Archive
+- Revisioni 1:1 e stato dell'arte [GitHub]
+
+#### Compiti
+1. ricerca e concept **(per discussioni live e revisioni a gruppi)**
+2. prototipazione **(per revisioni 1:1 e a gruppi)**
+3. _10 Print_ variazioni _significative_ (continua)
+4. rilettura tre casi studio di riferimento (continua)
+5. sistemare altri esercizi p5.js e repo GitHub (continua)
+
+
+
+## W8
+### Lab+
+
+#### Lab/\#The Macbeth Sessions (fase prototipazione)
+...
+
+#### Lab/\#Archive
+- Revisioni 1:1 e stato dell'arte [GitHub]
+- Costruire strumenti aperti
+  - Parametrizzazione
+  - Salvataggio, esportazione
+  - Interoperabilità 
+- Vjing e live performance
 
 
 
