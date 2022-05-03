@@ -238,14 +238,31 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ...
 
 #### Lab/\#Archive
-- Revisioni 1:1 e stato dell'arte [GitHub]
 - Costruire strumenti aperti
   - Parametrizzazione
   - Salvataggio, esportazione
   - Interoperabilità 
 - Vjing e live performance
 
-
+#### Lab 
+- Physics engine
+  - Matter.js [+](https://brm.io/matter-js/)
+  - Matter.js plus P5.js [+](https://github.com/b-g/p5-matter-examples)
+- The spreadsheet method
+  - **Outdated** P5js retrieve data from Google Spreadsheets/JSON [+](https://editor.p5js.org/fupete/sketches/CddwnLQiK)
+  - **Outdated** P5js retrieve data from Google Spreadsheets/JSON & make OOP [+](https://editor.p5js.org/fupete/sketches/oJcLKMzlA) 
+- GUI
+  - in Processing
+    - ControlP5 [+](http://www.sojamo.de/libraries/controlP5/)
+  - GUI libs in Js / P5.js / Ml5
+    - via DOM [+](https://p5js.org/reference/#/libraries/p5.dom)
+    - uil simple javascript ui [+](https://github.com/lo-th/uil)
+    - DAT.gui [+](https://github.com/dataarts/dat.gui)
+- 3D orbital control
+  - in Processing
+    - PeasyCam [+](http://mrfeinberg.com/peasycam/)
+  - in P5.js
+    - P5.easycam [+](https://diwi.github.io/p5.EasyCam/)
 
 ----
 
