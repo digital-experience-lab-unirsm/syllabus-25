@@ -1,98 +1,13 @@
-# DS 2022 | Laboratorio di design dei sistemi (ICAR/13) | 110 ore/8 crediti
+# DEL 2023 | Digital Experience Lab (ICAR/17) | 65+32 ore/8 crediti
 
-Docente: _Daniele Tabellini_ [@fupete](http://twitter.com/fupete) ([github.com/fupete](http://github.com/fupete))  
-Collaboratrice: _Irene Trotta_ [@iretrtr](http://twitter.com/iretrtr) ([github.com/iretrtr](http://github.com/iretrtr)) 
+Docenti: 
+- Modulo Digital Experience: _Daniele Tabellini_ [@fupete](http://github.com/fupete)  
+- Modulo UX/UI: _Giuseppe D'Ambrosio_ [@dambrosiodesigner](http://github.com/dambrosiodesigner) 
 
 **Corso di Laurea magistrale in Design**   
-**A/A 2021-22** [@unirsm](http://twitter.com/unirsm) ([design.unirsm.sm](http://design.unirsm.sm))  
+**A/A 2022-23** [@unirsm](http://twitter.com/unirsm) ([design.unirsm.sm](http://design.unirsm.sm))  
 Università della Repubblica di San Marino
 
 ---
 
-_Nota: oggi inizia il settimo anno di questo syllabus sull'invisibile. Sto raccogliendo da un po' quanto fatto in un libro che parlerà di approccio, progetti e idee in FLOSS (Free Libre Open Source). Una traccia per il primo capitolo, personale, è qui: [https://medium.com/@Fupete/dsii-unirsm-7961a5a6d1c5](https://medium.com/@Fupete/dsii-unirsm-7961a5a6d1c5). Feedbacks are welcome. Ciao. C u, Daniele @fupete._
-
----
-
-## Mini descrizione
-
-Durante il laboratorio gli studenti si confrontano con l’ideazione, lo sviluppo e il racconto di progetti complessi e open source. Acquisiscono sul campo un metodo per l’approccio al generative design, al creative coding e al machine learning per il design. Imparano a creare i propri tool digitali e realizzare prototipi e artefatti finiti per la comunicazione e il product design.
-
-## Prerequisiti
-
-Lingua inglese. Attitudine alla collaborazione. Iniziativa e spirito critico.
-
-## Obiettivi
-
-Lo studente acquisisce la capacità di gestire, progettare e raccontare sistemi relazionali e interattivi legati alla comunicazione e al product design, nonché la capacità di gestire ambienti simulativi del progetto in contesti di media dimensione. Lo studio dei linguaggi e piattaforme di prototipazione, machine learning e versioning open source Git/Github, Processing, p5.js, ml5.js e Arduino, sono requisiti che lo studente deve acquisire all’interno dell'insegnamento.
-
-## Descrizione
-
-### Sottotitolo _ Making visible: expressive computational approaches to meaning. The Macbeth sessions.
-
-### Intro
-Scrivere algoritmi _e progettare strumenti analogici e digitali_ per la ricerca, raccolta, visualizzazione e _remix_ di informazioni e dati _in tempo reale_ &rarr; _coding, data, api, scraping, sensors, remix, ai, ml.  
-
-### Sviluppo
-Progettare installazioni, performance comunicative e sistemi interattivi per misurare e _rendere visibile l'invisibile_ &rarr; _art, installation, performance, interaction, design, tangible.
-
-### Brief
-Evidenziare, far emergere, rendere tangibili e dotate di fisicità quelle _caratteristiche_ immateriali che ogni istante intorno a noi, e attraverso noi, definiscono il carattere dei sistemi-comunità in cui viviamo e ci muoviamo, relazioniamo e percepiamo noi stessi, gli altri e il mondo: _valori, energie, possibilità, relazioni, interazioni, reti, flussi, fantasmi, ..._ &rarr; _meaning, hermeneutic, hacking, networking.
-
-### Riferimenti
-- _The flow towards Europe_, 2015, Lucify
-- _Immaterials: Light painting WiFi_, 2012, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen
-- _Monument_, 2006, Caleb Larsen
-
-### Strumenti
-Partecipazione. Lapis e carta. Board Slack del laboratorio. Software e hardware open source (GitHub, Atom, Processing, p5.js, ml5.js, Three.js, Raw, Openrefine, Arduino, ...). Computer e device con approccio BYOD (Bring Your Own Device).
-
-### _Repository_
-[github.com/ds-2022-unirsm](https://github.com/ds-2022-unirsm/)
-
-## Criteri di valutazione
-- 15% partecipazione: presenza e collaborazione;
-- 10% testi: letture critiche di casi studio;
-- 10% gestione: repository github e board collettive su Miro e/o Figma;
-- 15% esercitazioni: due collettive durante il semestre più la consegna di una variazione significativa dell'algoritmo 10print in sede d'esame;
-- 50% progetto finale: ideazione e concept, processo di progettazione, revisioni periodiche, consegna e discussione prototipo/i e documentazione in sede d'esame.  
-
-## Modalità esame
-Esame orale, presentazione e analisi del progetto (prototipo/i, _code_, documentazione e contributi), discussione. 
-
-### Collaborazioni per il progetto _The Macbeth sessions_
-Liceo Statale Giulio Perticari e teatro "La Fenice" di Senigaglia, con la regia di Giorgio Sebastianelli e la coreografia di Paola Piccioni.
-
-## Bibliografia
-
-#### essenziale
-- Gross, B., Bohnacker, H., Laub, J., & Lazzeroni, C. (2018). _Generative Design: Visualize, Program, and Create with JavaScript in p5.js_. Princeton Architectural Press. (code: http://www.generative-gestaltung.de/2/ + https://github.com/generative-design)
-- Montfort, N., Baudoin, P., Bell, J., Bogost, I., & Douglass, J. (2014). _10 PRINT CHR$(205.5+RND(1)); : GOTO 10_. The MIT Press. (online: https://10print.org)
-
-_Molti altri materiali di approfondimento saranno segnalati durante il laboratorio_
-
-#### consigliata
-- Levin, G. & Brain, T. (2021). _Code as Creative Medium: A Handbook for Computational Art and Design_. The MIT Press.
-- Reas, C. & Fry, B. (2020/2nd ed.). _Processing: A Programming Handbook for Visual Designers and Artists Hardcover_. The MIT Press.
-- Graham, P. (2010). _Hackers & Painters: Big Ideas from the Computer Age_. O’Reilly Media.
-- Bohnacker, H., Gross, B., Laub, J., & Lazzeroni, C. (2012). _Generative Design: Visualize, Program, and Create with Processing_. Princeton Architectural Press. (code: http://www.generative-gestaltung.de/1/code + https://github.com/generative-design)
-- Shiffman, D. (2012). _The Nature of Code: Simulating Natural Systems with Processing. The Nature of Code_. (Online e code: http://natureofcode.com)
-- Simanowski, R. (2011). _Digital Art and Meaning: Reading Kinetic Poetry, Text Machines, Mapping Art, and Interactive Installations_. Univ Of Minnesota Press.
-- Klanten, R., Ehmann, S., & Hanschke. (2011). _A Touch of Code: Interactive Installations and Experiences_. Gestalten.
-- Reas, C., & McWilliams, C. (2010). _Form+Code in Design, Art, and Architecture_. Princeton Architectural Press. (code: http://formandcode.com)
-- Maeda, J., & Burns, R. (2004). _Creative Code: Aesthetics + Computation_. Thames & Hudson.
-- Tufte, E. R. (2001). _The Visual Display of Quantitative Information (2nd ed.)_. Graphics Pr.
-
-#### sitografia
-
-- https://creativeapplications.net (disponibile account gratuito di classe, cortesia di Creative Applications)
-- https://processing.org
-- https://p5js.org
-- https://ml5js.org
-- https://threejs.org/
-- https://dataphys.org/list  
-
-## Orario di ricevimento
-TBD
-
-## syllabus
-Dettaglio (weekly): [syllabus.md](https://github.com/ds-2022-unirsm/syllabus-22/blob/main/syllabus.md)
+🧑‍💻 _Work in progress_
