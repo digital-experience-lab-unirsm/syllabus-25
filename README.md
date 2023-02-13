@@ -7,7 +7,7 @@ _Daniele Tabellini_ [@fupete](http://github.com/fupete)
 - Modulo UX/UI:  
 _Giuseppe D'Ambrosio_ [@dambrosiodesigner](http://github.com/dambrosiodesigner) 
 
-**Corso di Laurea magistrale in Design**   
+**Corso di Laurea magistrale in Interaction & Experience Design**   
 **A/A 2022-23** [@unirsm](http://twitter.com/unirsm) ([design.unirsm.sm](http://design.unirsm.sm))  
 Università della Repubblica di San Marino
 
