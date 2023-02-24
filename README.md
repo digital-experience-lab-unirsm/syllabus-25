@@ -5,13 +5,15 @@
 
 Docenti: 
 - Modulo Digital Experience:  
-_Daniele Tabellini_ [@fupete](http://github.com/fupete)
+👨‍🏫 _Daniele Tabellini_ [@fupete](http://github.com/fupete)
   
 - Modulo UX/UI:  
-_Giuseppe D'Ambrosio_ [@dambrosiodesigner](http://github.com/dambrosiodesigner) 
+👨‍🏫 _Giuseppe D'Ambrosio_ [@dambrosiodesigner](http://github.com/dambrosiodesigner) 
 
 - Workshop Arduino avanzato:   
-_Paolo Petrangolini_
+👨‍🏫 _Paolo Petrangolini_ 
+
+[Vai alla pagina web del laboratorio](https://design.unirsm.sm/courses/laboratorio-di-design-dei-sistemi/)
 
 ---
 
