@@ -24,7 +24,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 
 ## W1
-### Introduzione. _Digital Art and Meaning._
+### Introduzione. _Digital Art and Meaning._ + La lingua. _A computational approach to sketching ideas._
 
 ![Vectorial Elevation, 1999, Rafael Lozano-Hemmer](http://i.imgur.com/BNxP95K.jpg?1) ![Urban/Mexico City, 2007, Spencer Tunick](http://i.imgur.com/XHkkirH.jpg?1)
 
@@ -70,8 +70,8 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 #### Compiti
 1. _10 Print_, read the book and start to play with "variazioni significative"
-3. _The Nuvole Sessions_: group works (Lotus Blossoms, Moodboards, +) to bring at least a full proposal (concept/rationale, storyboard, images, narrative). (Max: 2 proposals per group).  
-4. _The Macbeth Sessions_: critical code analysis of the app [p5-sessions-2022-senigallia](https://github.com/del-2023-unirsm/p5-sessions-2022-senigallia)
+2. _The Nuvole Sessions_: group works (Lotus Blossoms, Moodboards, +) to bring at least a full proposal (concept/rationale, storyboard, images, narrative). (Max: 2 proposals per group).  
+3. _The Macbeth Sessions_: critical code analysis of the app [p5-sessions-2022-senigallia](https://github.com/del-2023-unirsm/p5-sessions-2022-senigallia)
 
 ##### Altri materiali da approfondire in autonomia
 - _The Cognitive Style of PowerPoint_, Edward Tufte [+](http://www.edwardtufte.com/tufte/books_pp) 
@@ -81,6 +81,56 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
   - _Processing and FLOSS_, Casey Reas [+](https://medium.com/processing-foundation/processing-and-floss-d35aa4607f4c)
 - Gene Kogan p5.js tutorials on Trasformations [+](http://genekogan.com/code/p5js-transformations/) and Perlin Noise [+](http://genekogan.com/code/p5js-perlin-noise/)
 - More about understanding Perlin Noise by Ken Perlin [+](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-noise/a/perlin-noise)
+
+
+
+## W2
+### Making visible. _In progress._
+
+#### Lab/\#The Nuvole Sessions (fase divergente —> fase convergente)
+- lavoro in gruppi su idee e casi studio per i diversi atti/scene su board Figma dedicata
+- condivisione lavori
+- idea e concept design: tra limiti e possibilità
+- tra supereroi, clusterizzazione e costruzione di senso [FigJam](https://www.figma.com/file/CFjVdDnzKmnJiZ9aU0DqRx/W1b-divergente?type=whiteboard&node-id=0-1&t=zNPprSLAWPOnjdk9-0)
+
+#### Compiti
+1. _10 Print_ variazioni _significative_ (continua)
+2. _The Nuvole Sessions_: group works per Atti/Scene  
+
+
+
+
+## W3
+### _In progress._ 
+
+#### Lab/\#tools
+- Physics engine
+  - Matter.js [+](https://brm.io/matter-js/)
+  - Matter.js plus P5.js [+](https://github.com/b-g/p5-matter-examples)
+  
+#### Lab/\#The ML/AI Issue
+- Image-to-Image Demo, Christopher Hesse [+](https://affinelayer.com/pixsrv/)
+- Style Tranfer, Gene Kogan [+](http://genekogan.com/works/style-transfer/)
+- Airbnb design/ _Sketching interfaces..._ [+](https://airbnb.design/sketching-interfaces/)
+- Visual intro to Machine Learning [+](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+- Machine Learning + Design [+](https://machinelearning.design/)
+- Frameworks ML/JS
+  - ml5 [+](http://ml5js.org/)
+  - magenta [+](https://magenta.tensorflow.org/)
+- Generative AI: Stable Diffusion Online [+](https://stablediffusionweb.com/)
+
+#### Lab/\#The Macbeth Sessions (fase convergente)
+- planning e calendario
+- continuo lavoro (a gruppi) di concept design per i diversi atti/scene su board Figma dedicata
+
+#### Altri materiali da approfondire in autonomia
+- Nature of Code, Daniel Shiffman [+](https://natureofcode.com/book/) [vectors, ...]
+
+#### Compiti
+1. tutorial OOP/P5.js (video su streams "Camminatori nello spazio e Noise 3D", parte 1 e parte 2) 
+2. _10 Print_ variazioni _significative_ (continua)
+3. _The Nuvole Sessions_: concept design playing with Stable Diffusion Online
+
 
 
 
