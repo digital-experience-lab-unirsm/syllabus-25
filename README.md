@@ -1,4 +1,4 @@
-# DEL 2023 | Digital Experience Lab (ICAR/17)
+# DEL 2024 | Digital Experience Lab (ICAR/17)
 
 **Corso di Laurea magistrale in Interaction & Experience Design A/A 2022-23**   
 [design.unirsm.sm](http://design.unirsm.sm) - Università della Repubblica di San Marino
@@ -26,7 +26,7 @@ Lo studente acquisisce la capacità di gestire, progettare e raccontare sistemi 
 ## Descrizione
 Durante il laboratorio gli studenti si confrontano con l’ideazione, lo sviluppo e il racconto di progetti complessi e open source. Acquisiscono sul campo un metodo per l’approccio al generative design, al creative coding e al machine learning per il design. Imparano a creare i propri tool digitali, ideando, realizzando e testando prototipi e artefatti finiti per la comunicazione e il product design. 
 
-Il laboratorio, che si svolge attraverso lezioni teoriche, esercitazioni e analisi critica di casi studio, anche con l’utilizzo di strumenti e piattaforme di collaborazione, parte dal brief sull’invisibile del modulo Digital experience, e prevede un progetto finale collaborativo, rilasciato con licenza aperta, per la realizzazione e l’allestimento delle scenografie digitali della pièce teatrale “Le Nuvole” di Aristofane, in collaborazione con il Liceo Perticari di Senigallia.  
+Il laboratorio, che si svolge attraverso lezioni teoriche, esercitazioni e analisi critica di casi studio, anche con l’utilizzo di strumenti e piattaforme di collaborazione, parte dal brief sull’invisibile del modulo Digital experience, e prevede un progetto finale collaborativo, rilasciato con licenza aperta, per la realizzazione e l’allestimento delle scenografie digitali della pièce teatrale “L'Orlando Furioso”, in collaborazione con il Liceo Perticari di Senigallia.  
 
 Il modulo introduttivo di UX/UI affronta le metodologie per la ricerca e la definizione di esperienze e interfacce usabili e accessibili, in grado di soddisfare i bisogni degli utenti al centro del progetto.
 
