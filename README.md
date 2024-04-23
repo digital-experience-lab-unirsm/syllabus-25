@@ -1,6 +1,6 @@
 # DEL 2024 | Digital Experience Lab (ICAR/17)
 
-**Corso di Laurea magistrale in Interaction & Experience Design A/A 2022-23**   
+**Corso di Laurea magistrale in Interaction & Experience Design A/A 2023-24**   
 [design.unirsm.sm](http://design.unirsm.sm) - Università della Repubblica di San Marino
 
 Docenti: 
