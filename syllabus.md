@@ -103,7 +103,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - idea e concept design: tra limiti e possibilità, convergere su una proposta di temi, nuovi gruppi
 
 #### Altri materiali introdotti e da approfondire in autonomia
-- Nature of Code, Daniel Shiffman [+](https://natureofcode.com/book/) [vectors, ...]
+- Nature of Code, Daniel Shiffman [+](https://natureofcode.com/) [vectors, ...]
 
 #### Compiti
 2. _10 Print_ variazioni _significative_ (continua)
