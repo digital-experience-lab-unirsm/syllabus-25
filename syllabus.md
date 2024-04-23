@@ -1,6 +1,6 @@
-# DEL 2023 | Digital Experience Lab (ICAR/17)
+# DEL 2024 | Digital Experience Lab (ICAR/17)
 
-**Corso di Laurea magistrale in Interaction & Experience Design A/A 2022-23**   
+**Corso di Laurea magistrale in Interaction & Experience Design A/A 2023-24**   
 [design.unirsm.sm](http://design.unirsm.sm) - Università della Repubblica di San Marino
 
 - Modulo Digital Experience:  
@@ -12,14 +12,14 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ---
 
 
-## W0.5
+## pre-W
 ### Intros
 
 #### Lab/\#Syllabus
 - Brief introduction
 
-##### Lab/\#The Nuvole Sessions
-- The Director talk + Q&A
+##### Lab/\#The Orlando Sessions
+- Self workshop + Q&A
 
 
 
@@ -49,7 +49,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
   - librerie/_estendere la lingua_ 
 
 ##### Lab/\#tools
-- Github [+](https://github.com)
+- GitHub [+](https://github.com)
 - Slack [+](https://slack.com)
 - Figma [+](https://figma.com)
 
@@ -61,16 +61,13 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - _Tron: Legacy_, 2010
 - _Blade Runner 2049_, 2017
 
-##### Lab/\#10 Print
-- Critical code analysis, [10 print wall](https://editor.p5js.org/fupete/sketches/oAom-03M)
-
-##### Lab/\#The Nuvole Sessions
-- Lotus Blossom, idea generation
+##### Lab/\#The Orlando Sessions
+- Lotus Blossom, idea generation and analysis
 - Groups making and superheroes
 
 #### Compiti
-1. _10 Print_, read the book and start to play with "variazioni significative"
-2. _The Nuvole Sessions_: group works (Lotus Blossoms, Moodboards, +) to bring at least a full proposal (concept/rationale, storyboard, images, narrative). (Max: 2 proposals per group).  
+1. _The Orlando Sessions_: group works (Lotus Blossoms, Moodboards, +) to bring at least a full proposal (concept/rationale, storyboard, images, narrative). (Max: 2 proposals per group).  
+2. _The Nuvole Sessions_: critical code analysis of the app [three-sessions-2023-senigallia](https://github.com/del-2023-unirsm/three-sessions-2023-senigallia)
 3. _The Macbeth Sessions_: critical code analysis of the app [p5-sessions-2022-senigallia](https://github.com/del-2023-unirsm/p5-sessions-2022-senigallia)
 
 ##### Altri materiali da approfondire in autonomia
@@ -87,52 +84,30 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ## W2
 ### Making visible. _In progress._
 
-#### Lab/\#The Nuvole Sessions (fase divergente —> fase convergente)
-- lavoro in gruppi su idee e casi studio per i diversi atti/scene su board Figma dedicata
-- condivisione lavori
-- idea e concept design: tra limiti e possibilità
+#### Lab/\#The Orlando Sessions (fase divergente —> fase convergente)
+- Showcase (Director)
 - tra supereroi, clusterizzazione e costruzione di senso [FigJam](https://www.figma.com/file/CFjVdDnzKmnJiZ9aU0DqRx/W1b-divergente?type=whiteboard&node-id=0-1&t=zNPprSLAWPOnjdk9-0)
 
+##### Lab/\#10 Print
+- Critical code analysis, [10 print wall](https://editor.p5js.org/fupete/sketches/oAom-03M)
+
 #### Compiti
-1. _10 Print_ variazioni _significative_ (continua)
-2. _The Nuvole Sessions_: group works per Atti/Scene  
-
-
+1. _10 Print_, read the book and start to play with "variazioni significative"
+2. _The Orlando Sessions_: debrief e proposta uno/due temi principali da portare avanti
 
 
 ## W3
 ### _In progress._ 
 
-#### Lab/\#tools
-- Physics engine
-  - Matter.js [+](https://brm.io/matter-js/)
-  - Matter.js plus P5.js [+](https://github.com/b-g/p5-matter-examples)
-  
-#### Lab/\#The ML/AI Issue
-- Image-to-Image Demo, Christopher Hesse [+](https://affinelayer.com/pixsrv/)
-- Style Tranfer, Gene Kogan [+](http://genekogan.com/works/style-transfer/)
-- Airbnb design/ _Sketching interfaces..._ [+](https://airbnb.design/sketching-interfaces/)
-- Visual intro to Machine Learning [+](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
-- Machine Learning + Design [+](https://machinelearning.design/)
-- Frameworks ML/JS
-  - ml5 [+](http://ml5js.org/)
-  - magenta [+](https://magenta.tensorflow.org/)
-- Generative AI: Stable Diffusion Online [+](https://stablediffusionweb.com/)
+#### Lab/\#The Orlando Sessions (fase convergente)
+- idea e concept design: tra limiti e possibilità, convergere su una proposta di temi, nuovi gruppi
 
-#### Lab/\#The Macbeth Sessions (fase convergente)
-- planning e calendario
-- continuo lavoro (a gruppi) di concept design per i diversi atti/scene su board Figma dedicata
-
-#### Altri materiali da approfondire in autonomia
+#### Altri materiali introdotti e da approfondire in autonomia
 - Nature of Code, Daniel Shiffman [+](https://natureofcode.com/book/) [vectors, ...]
 
 #### Compiti
-1. tutorial OOP/P5.js (video su streams "Camminatori nello spazio e Noise 3D", parte 1 e parte 2) 
 2. _10 Print_ variazioni _significative_ (continua)
-3. _The Nuvole Sessions_: concept design playing with Stable Diffusion Online
-
-
-
+3. _The Orlando Sessions_: concept design, convergence
 
 ----
 
@@ -140,8 +115,8 @@ _work in progress_
 
 ----
 
-Sillabi _weekly_ precedenti: [2022](https://github.com/ds-2022-unirsm/syllabus-22/blob/master/syllabus.md) [2021](https://github.com/ds-2021-unirsm/syllabus-21/blob/master/syllabus.md) [2020](https://github.com/dsii-2020-unirsm/dsii-2020-unirsm/blob/master/syllabus.md) [2019](https://github.com/dsii-2019-unirsm/syllabus/blob/master/syllabus.md) [2018](https://github.com/dsii-2018-unirsm/syllabus/blob/master/syllabus.md) [2017](https://github.com/dsii-2017-unirsm/syllabus/blob/master/syllabus.md) [2016](https://github.com/dsii-2016-unirsm/syllabus/blob/master/syllabus.md) 
-/ Repository _as is_ progetti: [2022](https://github.com/ds-2022-unirsm/ds-archive-22) [2021](https://github.com/ds-2021-unirsm/archive) [2020](https://github.com/dsii-2020-unirsm) [2019](https://github.com/dsii-2019-unirsm) [2018](https://github.com/dsii-2018-unirsm) [2017](https://github.com/dsii-2017-unirsm) [2016](https://github.com/dsii-2016-unirsm)
+Sillabi _weekly_ precedenti: [2023](https://github.com/del-2023-unirsm/syllabus-23/blob/master/syllabus.md) [2022](https://github.com/ds-2022-unirsm/syllabus-22/blob/master/syllabus.md) [2021](https://github.com/ds-2021-unirsm/syllabus-21/blob/master/syllabus.md) [2020](https://github.com/dsii-2020-unirsm/dsii-2020-unirsm/blob/master/syllabus.md) [2019](https://github.com/dsii-2019-unirsm/syllabus/blob/master/syllabus.md) [2018](https://github.com/dsii-2018-unirsm/syllabus/blob/master/syllabus.md) [2017](https://github.com/dsii-2017-unirsm/syllabus/blob/master/syllabus.md) [2016](https://github.com/dsii-2016-unirsm/syllabus/blob/master/syllabus.md) 
+/ Repository _as is_ progetti: [2023](https://github.com/del-2023-unirsm/digital-experience-archive)+ [2022](https://github.com/ds-2022-unirsm/ds-archive-22) [2021](https://github.com/ds-2021-unirsm/archive) [2020](https://github.com/dsii-2020-unirsm) [2019](https://github.com/dsii-2019-unirsm) [2018](https://github.com/dsii-2018-unirsm) [2017](https://github.com/dsii-2017-unirsm) [2016](https://github.com/dsii-2016-unirsm)
 
 ----
 
