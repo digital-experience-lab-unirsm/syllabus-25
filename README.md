@@ -13,7 +13,7 @@ Docenti:
 - Workshop Arduino avanzato:   
 👨‍🏫 _Paolo Petrangolini_ 
 
-[Vai alla pagina web del laboratorio](https://design.unirsm.sm/courses/laboratorio-di-design-dei-sistemi/)
+[Vai alla pagina web del laboratorio](https://design.unirsm.sm/courses/digital-experience-lab/)
 
 ---
 
